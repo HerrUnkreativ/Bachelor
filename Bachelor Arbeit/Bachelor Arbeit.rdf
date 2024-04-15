@@ -1,0 +1,906 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Document rdf:about="https://huggingface.co/mistralai/Mistral-7B-v0.1">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dcterms:isReferencedBy rdf:resource="#item_11"/>
+        <link:link rdf:resource="#item_10"/>
+        <dc:title>mistralai/Mistral-7B-v0.1 · Hugging Face</dc:title>
+        <dcterms:abstract>We’re on a journey to advance and democratize artificial intelligence through open source and open science.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://huggingface.co/mistralai/Mistral-7B-v0.1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-05 14:29:05</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Memo rdf:about="#item_11">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;KI Zusammenfassen über harte prompts&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/10/Mistral-7B-v0.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://huggingface.co/mistralai/Mistral-7B-v0.1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-05 14:29:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0963868707000637">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:09638687"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bélanger</foaf:surname>
+                        <foaf:givenName>France</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Carter</foaf:surname>
+                        <foaf:givenName>Lemuria</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_12"/>
+        <dc:title>Trust and risk in e-government adoption</dc:title>
+        <dcterms:abstract>Citizen conﬁdence in government and technology is imperative to the wide-spread adoption of e-government. This study analyzes the impact of trust and risk perceptions on one’s willingness to use e-government services. We propose a model of e-government trust composed of disposition to trust, trust of the Internet (TOI), trust of the government (TOG) and perceived risk. Results from a citizen survey indicate that disposition to trust positively aﬀects TOI and TOG, which in turn aﬀect intentions to use an e-government service. TOG also aﬀects negatively perceived risk, which aﬀects use intentions as well. Implications for practice and research are discussed.</dcterms:abstract>
+        <dc:date>6/2008</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0963868707000637</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-07 10:33:59</dcterms:dateSubmitted>
+        <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+        <bib:pages>165-176</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:09638687">
+        <prism:volume>17</prism:volume>
+        <dc:title>The Journal of Strategic Information Systems</dc:title>
+        <dc:identifier>DOI 10.1016/j.jsis.2007.12.002</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>The Journal of Strategic Information Systems</dcterms:alternative>
+        <dc:identifier>ISSN 09638687</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_12">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/12/TrustAndRiskInEGovernmentAdoption.pdf"/>
+        <dc:title>TrustAndRiskInEGovernmentAdoption.pdf</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>application/pdf</link:type>
+        <dc:description>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;&lt;em&gt;Building Citizen Trust towards E-Government Services: Do High Quality Websites Matter?&lt;/em&gt; (2008a, Januar 1). IEEE Conference Publication | IEEE Xplore. https://ieeexplore.ieee.org/abstract/document/4438921&lt;/p&gt;
+&lt;/div&gt;</dc:description>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-0-12-407914-4">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <dc:identifier>ISBN 978-0-12-407914-4</dc:identifier>
+                <dc:title>Designing with the Mind in Mind (Second Edition)</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Boston</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Morgan Kaufmann</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnson</foaf:surname>
+                        <foaf:givenName>Jeff</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnson</foaf:surname>
+                        <foaf:givenName>Jeff</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_16"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>ambiguity</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>background</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>closure</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>common fate</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>continuity</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>displays</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>figure-ground</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>foreground</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Gestalt principles</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>grouping</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>perception</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>proximity</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>similarity</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>spacing</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>symmetry</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>vision</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>visual</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>visual design</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Chapter 2 - Our Vision is Optimized to See Structure</dc:title>
+        <dcterms:abstract>This chapter introduces the Gestalt principles that describe human visual perception: proximity, similarity, continuity, closure, symmetry, figure-ground, and common fate, with examples of how each principle impacts user-interface design. For example, the proximity principle is that the relative distance between objects in a display affects perception of whether and how the objects are organized into subgroups: objects that are near each other (relative to other objects) appear grouped, while those that are farther apart do not.</dcterms:abstract>
+        <dc:date>2014-01-01</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/B9780124079144000026</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-07 13:28:54</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1016/B978-0-12-407914-4.00002-6</dc:description>
+        <bib:pages>13-27</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_16">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/16/B9780124079144000026.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/abs/pii/B9780124079144000026</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-07 13:28:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+        <dc:description>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Johnson, J. (2014). Our Vision is Optimized to See Structure. In &lt;em&gt;Elsevier eBooks&lt;/em&gt; (S. 13–27). https://doi.org/10.1016/b978-0-12-407914-4.00002-6&lt;/p&gt;
+&lt;/div&gt;</dc:description>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.interaction-design.org/literature/article/a-simple-introduction-to-lean-ux">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>The Interaction Design Foundation</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <dc:title>A Simple Introduction to Lean UX</dc:title>
+        <dcterms:abstract>Lean UX has the same goal in mind as other forms of UX, it’s just that the way you work on a project is slightly different. Let’s take a look at how it works.</dcterms:abstract>
+        <dc:date>2021-01-02</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.interaction-design.org/literature/article/a-simple-introduction-to-lean-ux</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-07 18:17:39</dcterms:dateSubmitted>
+    </bib:Document>
+    <rdf:Description rdf:about="https://ieeexplore.ieee.org/document/4438921/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Proceedings of the 41st Annual Hawaii International Conference on System Sciences (HICSS 2008)</dc:title>
+                <dc:identifier>DOI 10.1109/HICSS.2008.80</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Waikoloa, HI</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tan</foaf:surname>
+                        <foaf:givenName>Chee Wee</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Benbasat</foaf:surname>
+                        <foaf:givenName>Izak</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cenfetelli</foaf:surname>
+                        <foaf:givenName>Ronald T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_19"/>
+        <dc:title>Building Citizen Trust towards E-Government Services: Do High Quality Websites Matter?</dc:title>
+        <dcterms:abstract>E-governments are increasingly becoming a familiar fixture in virtual landscapes. Yet, the lack of citizen trust brought on by the novelty and uncertainty of online transactions has inhibited the widespread acceptance for public e-services. Ascribing to the perspective of technology as a social actor with whom the customer interacts and transacts, we put forward a research model that accentuates the pivotal role of e-government service quality as a salient driver of citizens’ trustworthiness beliefs towards e-government websites, which in turn promotes the corresponding adoption of public e-services. E-government service quality, as conceptualized in this study, borrows from the popularized SERVQUAL constructs in deriving prescriptive design principles to guide the development of e-government websites. Data collected from a sample of 647 e-government service participants substantiates all 14 hypothesized relationships, thereby suggesting that high quality egovernment websites do matter in building citizen trust towards public e-services.</dcterms:abstract>
+        <dc:date>1/2008</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Building Citizen Trust towards E-Government Services</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/4438921/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 05:20:36</dcterms:dateSubmitted>
+        <bib:pages>217-217</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2008 41st Annual Hawaii International Conference on System Sciences</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_19">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/19/Tan et al. - 2008 - Building Citizen Trust towards E-Government Servic.pdf"/>
+        <dc:title>Tan et al. - 2008 - Building Citizen Trust towards E-Government Servic.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.tandfonline.com/doi/full/10.1080/23808985.2021.1976070">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2380-8985,%202380-8977"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kubin</foaf:surname>
+                        <foaf:givenName>Emily</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Von Sikorski</foaf:surname>
+                        <foaf:givenName>Christian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_22"/>
+        <dc:title>The role of (social) media in political polarization: a systematic review</dc:title>
+        <dc:date>2021-07-03</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The role of (social) media in political polarization</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/full/10.1080/23808985.2021.1976070</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 05:36:13</dcterms:dateSubmitted>
+        <bib:pages>188-206</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2380-8985,%202380-8977">
+        <prism:volume>45</prism:volume>
+        <dc:title>Annals of the International Communication Association</dc:title>
+        <dc:identifier>DOI 10.1080/23808985.2021.1976070</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Annals of the International Communication Association</dcterms:alternative>
+        <dc:identifier>ISSN 2380-8985, 2380-8977</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_22">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/22/Kubin und Von Sikorski - 2021 - The role of (social) media in political polarizati.pdf"/>
+        <dc:title>Volltext</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/pdf/10.1080/23808985.2021.1976070?needAccess=true</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 05:36:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://journals.sagepub.com/doi/10.1177/1940161217740697">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1940-1612,%201940-1620"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Suhay</foaf:surname>
+                        <foaf:givenName>Elizabeth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bello-Pardo</foaf:surname>
+                        <foaf:givenName>Emily</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maurer</foaf:surname>
+                        <foaf:givenName>Brianna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Polarizing Effects of Online Partisan Criticism: Evidence from Two Experiments</dc:title>
+        <dcterms:abstract>Affective and social political polarization—a dislike of political opponents and a desire to avoid their company—are increasingly salient and pervasive features of politics in many Western democracies, particularly the United States. One contributor to these related phenomena may be increasing exposure to online political disagreements in which ordinary citizens criticize, and sometimes explicitly demean, opponents. This article presents two experimental studies that assessed whether U.S. partisans’ attitudes became more prejudiced in favor of the in-party after exposure to online partisan criticism. In the first study, we draw on an online convenience sample to establish that partisan criticism that derogates political opponents increases affective polarization. In the second, we replicate these findings with a quasi-representative sample and extend the pattern of findings to social polarization. We conclude that online partisan criticism likely has contributed to rising affective and social polarization in recent years between Democrats and Republicans in the United States, and perhaps between partisan and ideological group members in other developed democracies as well. We close by discussing the troubling implications of these findings in light of continuing attempts by autocratic regimes and other actors to influence democratic elections via false identities on social media.</dcterms:abstract>
+        <dc:date>01/2018</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The Polarizing Effects of Online Partisan Criticism</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journals.sagepub.com/doi/10.1177/1940161217740697</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 05:48:07</dcterms:dateSubmitted>
+        <bib:pages>95-115</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1940-1612,%201940-1620">
+        <prism:volume>23</prism:volume>
+        <dc:title>The International Journal of Press/Politics</dc:title>
+        <dc:identifier>DOI 10.1177/1940161217740697</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>The International Journal of Press/Politics</dcterms:alternative>
+        <dc:identifier>ISSN 1940-1612, 1940-1620</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://www.tandfonline.com/doi/full/10.1080/21670811.2019.1693904">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2167-0811,%202167-082X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Valenzuela</foaf:surname>
+                        <foaf:givenName>Sebastián</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bachmann</foaf:surname>
+                        <foaf:givenName>Ingrid</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bargsted</foaf:surname>
+                        <foaf:givenName>Matías</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Personal Is the Political? What Do WhatsApp Users Share and How It Matters for News Knowledge, Polarization and Participation in Chile</dc:title>
+        <dc:date>2021-02-07</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The Personal Is the Political?</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/full/10.1080/21670811.2019.1693904</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 05:57:07</dcterms:dateSubmitted>
+        <bib:pages>155-175</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2167-0811,%202167-082X">
+        <prism:volume>9</prism:volume>
+        <dc:title>Digital Journalism</dc:title>
+        <dc:identifier>DOI 10.1080/21670811.2019.1693904</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Digital Journalism</dcterms:alternative>
+        <dc:identifier>ISSN 2167-0811, 2167-082X</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://www.cambridge.org/core/product/identifier/S1532440000004333/type/journal_article">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1532-4400,%201946-1607"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Udani</foaf:surname>
+                        <foaf:givenName>Adriano</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kimball</foaf:surname>
+                        <foaf:givenName>David C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fogarty</foaf:surname>
+                        <foaf:givenName>Brian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26"/>
+        <dc:title>How Local Media Coverage of Voter Fraud Influences Partisan Perceptions in the United States</dc:title>
+        <dcterms:abstract>Abstract
+            Extant findings show that voter fraud is extremely rare and difficult to prove in the United States. Voter's knowledge about voter fraud allegations likely comes through the media, who tend to sensationalize the issue. In this study, we argue that the more voters are exposed to media coverage of voter fraud allegations, the more likely that they will perceive that voter fraud is a frequent problem. We merge the 2012 Survey of Performance of American Elections with state-level media coverage of voter fraud leading up to the 2012 election. Our results show that media coverage of voter fraud is associated with public beliefs about voter fraud. In states where fraud was more frequently featured in local media outlets, public concerns about voter fraud were heightened. In particular, we find that press attention to voter fraud has a larger influence on Republicans than Democrats and Independents. We further find that media coverage of voter fraud does not further polarize partisan perceptions of voter fraud. Rather, political interest moderates state media coverage on voter fraud beliefs only among Republicans. Last, our results provide no support that demographic changes, approval of election administration, or information concerning actual reported voting irregularities have any discernable effects on partisan perceptions.</dcterms:abstract>
+        <dc:date>06/2018</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/S1532440000004333/type/journal_article</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 05:58:29</dcterms:dateSubmitted>
+        <dc:rights>https://www.cambridge.org/core/terms</dc:rights>
+        <bib:pages>193-210</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1532-4400,%201946-1607">
+        <prism:volume>18</prism:volume>
+        <dc:title>State Politics &amp; Policy Quarterly</dc:title>
+        <dc:identifier>DOI 10.1177/1532440018766907</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>State Politics Policy Q.</dcterms:alternative>
+        <dc:identifier>ISSN 1532-4400, 1946-1607</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_26">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/26/Udani et al. - 2018 - How Local Media Coverage of Voter Fraud Influences.pdf"/>
+        <dc:title>Akzeptierte Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://eprints.gla.ac.uk/153375/7/153375.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 05:58:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.tandfonline.com/doi/full/10.1080/15205436.2020.1714663">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1520-5436,%201532-7825"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wojcieszak</foaf:surname>
+                        <foaf:givenName>Magdalena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Winter</foaf:surname>
+                        <foaf:givenName>Stephan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yu</foaf:surname>
+                        <foaf:givenName>Xudong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Social Norms and Selectivity: Effects of Norms of Open-Mindedness on Content Selection and Affective Polarization</dc:title>
+        <dc:date>2020-07-03</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Social Norms and Selectivity</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/full/10.1080/15205436.2020.1714663</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 05:59:09</dcterms:dateSubmitted>
+        <bib:pages>455-483</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1520-5436,%201532-7825">
+        <prism:volume>23</prism:volume>
+        <dc:title>Mass Communication and Society</dc:title>
+        <dc:identifier>DOI 10.1080/15205436.2020.1714663</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>Mass Communication and Society</dcterms:alternative>
+        <dc:identifier>ISSN 1520-5436, 1532-7825</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://www.tandfonline.com/doi/full/10.1080/1369118X.2018.1444783">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1369-118X,%201468-4462"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Beam</foaf:surname>
+                        <foaf:givenName>Michael A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hutchens</foaf:surname>
+                        <foaf:givenName>Myiah J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hmielowski</foaf:surname>
+                        <foaf:givenName>Jay D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Facebook news and (de)polarization: reinforcing spirals in the 2016 US election</dc:title>
+        <dc:date>2018-07-03</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Facebook news and (de)polarization</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/full/10.1080/1369118X.2018.1444783</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 06:00:37</dcterms:dateSubmitted>
+        <bib:pages>940-958</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1369-118X,%201468-4462">
+        <prism:volume>21</prism:volume>
+        <dc:title>Information, Communication &amp; Society</dc:title>
+        <dc:identifier>DOI 10.1080/1369118X.2018.1444783</dc:identifier>
+        <prism:number>7</prism:number>
+        <dcterms:alternative>Information, Communication &amp; Society</dcterms:alternative>
+        <dc:identifier>ISSN 1369-118X, 1468-4462</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://pnas.org/doi/full/10.1073/pnas.2008389118">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0027-8424,%201091-6490"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kubin</foaf:surname>
+                        <foaf:givenName>Emily</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Puryear</foaf:surname>
+                        <foaf:givenName>Curtis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schein</foaf:surname>
+                        <foaf:givenName>Chelsea</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gray</foaf:surname>
+                        <foaf:givenName>Kurt</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_30"/>
+        <dc:title>Personal experiences bridge moral and political divides better than facts</dc:title>
+        <dcterms:abstract>Significance
+            All Americans are affected by rising political polarization, whether because of a gridlocked Congress or antagonistic holiday dinners. People believe that facts are essential for earning the respect of political adversaries, but our research shows that this belief is wrong. We find that sharing personal experiences about a political issue—especially experiences involving harm—help to foster respect via increased perceptions of rationality. This research provides a straightforward pathway for increasing moral understanding and decreasing political intolerance. These findings also raise questions about how science and society should understand the nature of truth in the era of “fake news.” In moral and political disagreements, everyday people treat subjective experiences as truer than objective facts.
+          , 
+            Both liberals and conservatives believe that using facts in political discussions helps to foster mutual respect, but 15 studies—across multiple methodologies and issues—show that these beliefs are mistaken. Political opponents respect moral beliefs more when they are supported by personal experiences, not facts. The respect-inducing power of personal experiences is revealed by survey studies across various political topics, a field study of conversations about guns, an analysis of YouTube comments from abortion opinion videos, and an archival analysis of 137 interview transcripts from Fox News and CNN. The personal experiences most likely to encourage respect from opponents are issue-relevant and involve harm. Mediation analyses reveal that these harm-related personal experiences increase respect by increasing perceptions of rationality: everyone can appreciate that avoiding harm is rational, even in people who hold different beliefs about guns, taxes, immigration, and the environment. Studies show that people believe in the truth of both facts and personal experiences in nonmoral disagreement; however, in moral disagreements, subjective experiences seem truer (i.e., are doubted less) than objective facts. These results provide a concrete demonstration of how to bridge moral divides while also revealing how our intuitions can lead us astray. Stretching back to the Enlightenment, philosophers and scientists have privileged objective facts over experiences in the pursuit of truth. However, furnishing perceptions of truth within moral disagreements is better accomplished by sharing subjective experiences, not by providing facts.</dcterms:abstract>
+        <dc:date>2021-02-09</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pnas.org/doi/full/10.1073/pnas.2008389118</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 06:01:35</dcterms:dateSubmitted>
+        <bib:pages>e2008389118</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0027-8424,%201091-6490">
+        <prism:volume>118</prism:volume>
+        <dc:title>Proceedings of the National Academy of Sciences</dc:title>
+        <dc:identifier>DOI 10.1073/pnas.2008389118</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>Proc. Natl. Acad. Sci. U.S.A.</dcterms:alternative>
+        <dc:identifier>ISSN 0027-8424, 1091-6490</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_30">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/30/Kubin et al. - 2021 - Personal experiences bridge moral and political di.pdf"/>
+        <dc:title>Volltext</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8017692/pdf/pnas.202008389.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 06:01:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://journals.sagepub.com/doi/10.1177/147078539703900201">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0025-3618"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Woo</foaf:surname>
+                        <foaf:givenName>Ka Shiing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lam</foaf:surname>
+                        <foaf:givenName>Simon S K</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Measuring Service Quality: A Test-retest Reliability Investigation of Servqual</dc:title>
+        <dcterms:abstract>The SERVQUAL scale has been widely used by both academics and practising managers to measure service quality, but recent research has raised concerns about the reliability of SERVQUAL. Using the test-retest correlation method, this paper assesses short and long range stability of SERVQUAL. The results indicate that the SERVQUAL scale is not stable over time as revealed by the insignificant correlation between the test scores and retest scores. Although items in the expectation battery of the SERVQUAL scale remain fairly stable over time, the performance items are subject to instability even in a one-week test-retest interval. These results seem to cast doubt on the usefulness of using SERVQUAL performance items to measure service quality.</dcterms:abstract>
+        <dc:date>03/1997</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Measuring Service Quality</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journals.sagepub.com/doi/10.1177/147078539703900201</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 06:25:55</dcterms:dateSubmitted>
+        <dc:rights>http://journals.sagepub.com/page/policies/text-and-data-mining-license</dc:rights>
+        <bib:pages>1-18</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0025-3618">
+        <prism:volume>39</prism:volume>
+        <dc:title>Market Research Society. Journal.</dc:title>
+        <dc:identifier>DOI 10.1177/147078539703900201</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Market Research Society. Journal.</dcterms:alternative>
+        <dc:identifier>ISSN 0025-3618</dc:identifier>
+    </bib:Journal>
+    <bib:Document rdf:about="https://www.mobilespoon.net/2019/04/collection-cognitive-biases-how-to-use.html">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>The Mobile Spoon</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bouhnick</foaf:surname>
+                        <foaf:givenName>Gil</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_40"/>
+        <dc:title>84 cognitive biases that will help you design better-converting products</dc:title>
+        <dcterms:abstract>Learn how to use cognitive biases to increase your product's conversion rates, engagement level, and retention. A must-read article for every entrepreneur and product manager dealing with UX, UI and B2C products.</dcterms:abstract>
+        <dc:date>2019-04-30</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mobilespoon.net/2019/04/collection-cognitive-biases-how-to-use.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 06:41:28</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_40">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/40/collection-cognitive-biases-how-to-use.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mobilespoon.net/2019/04/collection-cognitive-biases-how-to-use.html?m=1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 06:41:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://www.figma.com/proto/b5a2Nu6q4ECrxiJviXAWIz/HAI-V5?type=design&amp;node-id=901-734&amp;t=l4KE7VEVTBrE32H0-1&amp;scaling=scale-down&amp;page-id=0%3A1&amp;starting-point-node-id=47%3A2">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Watermann</foaf:surname>
+                        <foaf:givenName>Lea</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dhungel</foaf:surname>
+                        <foaf:givenName>Anna-Katharina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:title>KI-basierte Auswertung von Landestagsdebatten</dc:title>
+        <dcterms:abstract>Protoyp in Figma</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.figma.com/proto/b5a2Nu6q4ECrxiJviXAWIz/HAI-V5?type=design&amp;node-id=901-734&amp;t=l4KE7VEVTBrE32H0-1&amp;scaling=scale-down&amp;page-id=0%3A1&amp;starting-point-node-id=47%3A2</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:system>Web</z:system>
+        <z:programmingLanguage>Figma</z:programmingLanguage>
+    </bib:Data>
+    <bib:Book rdf:about="#item_43">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Ravenio Books</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zipf</foaf:surname>
+                        <foaf:givenName>George Kingsley</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_44"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Social Science / Statistics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Human Behavior and the Principle of Least Effort: An Introduction to Human Ecology</dc:title>
+        <dcterms:abstract>This classic is arranged as follows: Preface 1. The Question of Practical Application. 2. The Question of Natural Science. 1. Introduction and Orientation I. The Selection of a Path II. The “Singleness of the Superlative” III. The Principle of Least Effort IV. The Scope of the Principle: “Tools-and-Jobs” V. Previous Studies VI. Prospectus 2. On the Economy of Words I. In Medias Res: Vocabulary Usage, and the Forces of Unification and Diversification II. The Question of Vocabulary Balance III. The Orderly Distribution of Meanings IV. The Integrality of Frequencies V. The Integrality of Rank VI. The Length of Intervals Between Repetitions VII. The Problem of Spreading Work Over Time (The Even Distribution of Work Over Time) 3. Formal Semantic Balance and the Economy of Evolutionary Process I. The “Minimum Equation” Of Arrangement II. The Law of Abbreviation of Words III. The Law of Diminishing Returns of Tools IV. The Law of Diminishing Returns of Words 4. Children’s Verbalizations and the “Origin of Speech” I. The Problem II. Quantitative Data III. Theoretical Discussion of the “Origin” Of Speech IV. Summary 5. Language as Sensation and Mentation I. The Comparative Conservatism of Tools in the Risks and Opportunities of the Environment II. The Economy of Sensation III. Mentation: The Correlation of Sensory Data IV. A Mind as a Unit Semantic System V. Intellectual Rigidity and Death: Miscellanea V. Summary: The N Minimum 6. The Ego as the “Origin” Of a Frame of Reference I. A Definition of an Organism II. The Biosocial Population of Organisms III. The Economy of Procreation IV. The Synchrony of the Biosocial Continuum 7. Mind and the Economy of Symbolic Process: Sex, Culture, and Schizophrenia I. Human Sexual Activity II. The Economy of Symbolic Process (Substitution III. Culture, Society, and the Superego IV. Autism and the Confusion of Kinds of Reality V. On Schizophrenic Speech VI. Semantic Dynamics: Summary VI. Language and the Structure of the Personality 8. The Language of Dreams and of Art I. The Language of Dreams II. The Language of Art III. Language and the Structure of the Personality: Mary of Part One 9. The Economy of Geography I. A Lemma in Which a Number of Human Beings Becomes Increasingly More Organized II. The Hypothesis of the “Minimum Equation” III. Empiric Tests IV. Concluding Remarks 10. Intranational and International Cooperation and Conflict I. Canadian Data II. Unstable and Stable Intranational Conditions III. Stable and Unstable International Equilibria 11. The Distribution of Economic Power and Social Status I. Theoretical Considerations II. Empiric Data III. The Interaction Between Individuals: Dominance and Submission IV. Summary 12. Prestige Symbols and Cultural Vogues I. Theoretical Considerations II. Pioneer Empiric Data III. Musical Composers and Compositions IV. Samples of Congressional Action V. Summary</dcterms:abstract>
+        <dc:date>2016-01-27</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Human Behavior and the Principle of Least Effort</z:shortTitle>
+        <z:libraryCatalog>Google Books</z:libraryCatalog>
+        <z:numPages>617</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_44">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Google Books Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://books.google.de/books?id=m-XDCwAAQBAJ</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 13:51:15</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://simplicable.com/design/principle-of-least-effort">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Simplicable</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_46"/>
+        <dc:title>What is the Principle Of Least Effort?</dc:title>
+        <dcterms:abstract>An overview of a common design and marketing principle.</dcterms:abstract>
+        <dc:date>2017-06-13</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://simplicable.com/design/principle-of-least-effort</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 13:53:18</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_46">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/46/principle-of-least-effort.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://simplicable.com/design/principle-of-least-effort</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 13:53:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://de.statista.com/statistik/daten/studie/1377003/umfrage/angst-vor-verbreitung-von-desinformation-in-deutschland/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Statista</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Desinformation: Angst vor Verbreitung 2023</dc:title>
+        <dcterms:abstract>Zur Bildung und Information der Gesellschaft spielen die Medien heutzutage eine grundlegende Rolle, können gleichzeitig allerdings auch Nährboden für unterschiedliche Meinungen und Ängste vor Falschinformation sein.</dcterms:abstract>
+        <z:language>de</z:language>
+        <z:shortTitle>Desinformation</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://de.statista.com/statistik/daten/studie/1377003/umfrage/angst-vor-verbreitung-von-desinformation-in-deutschland/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-08 13:59:47</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Collection rdf:about="#collection_2">
+        <dc:title>Exposè</dc:title>
+        <dcterms:hasPart rdf:resource="#collection_5"/>
+        <dcterms:hasPart rdf:resource="#collection_6"/>
+        <dcterms:hasPart rdf:resource="#collection_4"/>
+        <dcterms:hasPart rdf:resource="#collection_3"/>
+        <dcterms:hasPart rdf:resource="https://www.figma.com/proto/b5a2Nu6q4ECrxiJviXAWIz/HAI-V5?type=design&amp;node-id=901-734&amp;t=l4KE7VEVTBrE32H0-1&amp;scaling=scale-down&amp;page-id=0%3A1&amp;starting-point-node-id=47%3A2"/>
+        <dcterms:hasPart rdf:resource="#item_43"/>
+        <dcterms:hasPart rdf:resource="https://de.statista.com/statistik/daten/studie/1377003/umfrage/angst-vor-verbreitung-von-desinformation-in-deutschland/"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_5">
+       <dc:title>Informationsystem</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_6">
+        <dc:title>Social Media Polarisierung</dc:title>
+        <dcterms:hasPart rdf:resource="https://www.tandfonline.com/doi/full/10.1080/23808985.2021.1976070"/>
+        <dcterms:hasPart rdf:resource="http://journals.sagepub.com/doi/10.1177/1940161217740697"/>
+        <dcterms:hasPart rdf:resource="https://www.tandfonline.com/doi/full/10.1080/21670811.2019.1693904"/>
+        <dcterms:hasPart rdf:resource="https://www.cambridge.org/core/product/identifier/S1532440000004333/type/journal_article"/>
+        <dcterms:hasPart rdf:resource="https://www.tandfonline.com/doi/full/10.1080/15205436.2020.1714663"/>
+        <dcterms:hasPart rdf:resource="https://www.tandfonline.com/doi/full/10.1080/1369118X.2018.1444783"/>
+        <dcterms:hasPart rdf:resource="https://pnas.org/doi/full/10.1073/pnas.2008389118"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_4">
+        <dc:title>Trust E-Gov</dc:title>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0963868707000637"/>
+        <dcterms:hasPart rdf:resource="https://ieeexplore.ieee.org/document/4438921/"/>
+        <dcterms:hasPart rdf:resource="http://journals.sagepub.com/doi/10.1177/147078539703900201"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_3">
+        <dc:title>UX/Design</dc:title>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-0-12-407914-4"/>
+        <dcterms:hasPart rdf:resource="https://www.interaction-design.org/literature/article/a-simple-introduction-to-lean-ux"/>
+        <dcterms:hasPart rdf:resource="https://www.mobilespoon.net/2019/04/collection-cognitive-biases-how-to-use.html"/>
+        <dcterms:hasPart rdf:resource="https://simplicable.com/design/principle-of-least-effort"/>
+    </z:Collection>
+</rdf:RDF>
