@@ -1,0 +1,66 @@
+\documentclass[12pt,a4paper]{article}
+
+% Packages for various functionalities
+\usepackage[utf8]{inputenc} % Input encoding
+\usepackage[T1]{fontenc} % Font encoding
+\usepackage[english]{babel} % Language
+\usepackage{geometry} % Page layout
+\usepackage{graphicx} % For including graphics
+\usepackage{amsmath,amsfonts,amssymb} % Math packages
+\usepackage{hyperref} % For hyperlinks
+\usepackage{setspace} % For line spacing
+\usepackage{lipsum} % For dummy text, remove it later
+
+% Define page margins
+\geometry{
+    left=2.5cm,
+    right=2.5cm,
+    top=2.5cm,
+    bottom=2.5cm
+}
+\author[]{Erik Wolfram}
+
+% Title information
+\title{Your Exposé Title}
+\author{Your Name}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+% Abstract
+\begin{abstract}
+    This is the abstract of your exposé.
+\end{abstract}
+
+% Table of contents
+\tableofcontents
+
+% Start of content
+\section{Introduction}
+\lipsum[1-3] % Remove this and add your introduction
+
+\section{Literature Review}
+\lipsum[4-6] % Remove this and add your literature review
+
+\section{Methodology}
+\lipsum[7-9] % Remove this and add your methodology
+
+\section{Results}
+\lipsum[10-12] % Remove this and add your results
+
+\section{Discussion}
+\lipsum[13-15] % Remove this and add your discussion
+
+% Conclusion
+\section{Conclusion}
+\lipsum[16] % Remove this and add your conclusion
+
+% References
+\begin{thebibliography}{9}
+    \bibitem{example-ref}
+    Author, A. (Year). Title of the paper. \textit{Journal Name}, \textbf{Volume}(Issue), Page range.
+\end{thebibliography}
+
+\end{document}
