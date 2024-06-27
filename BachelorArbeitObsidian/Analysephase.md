@@ -18,10 +18,30 @@ Hier werden der Nutzungskontext und die Nutzergruppen analysiert, beschrieben un
 - Orchestration prozessual eingebundener Ressourcen
 - Kontext der Prozessautomatisierung und -digitalisierung
 
+
+# Sequenzdiagramm
+
+#### Wissenschaftliche Methodiken zur Informationsaufnahme
+#### Inhaltliches Ziel klar machen
+#### nicht nur Prozess
+#### Inhalte am Ziel eventuell Schlecht aufbereitet
+#### Sprachverständniss
+#### ...
+
 ### Methoden Kontextanaylse
 - 
 
 
+# Zum nächsten Termin:
+- Sequenzdiagramm (Ablauf )
+- Quellen für obiges
+- Quelle für Datenerhebung für Contextual Design (Personas)
+- 5 Leute 80% der Fehler (quelle finden)
+- Personas, wenn es sich anbietet
+- Politische Bildung und Informationsbeschaffung Quelle (Blick auf den Kontext)
+
+### Hypothesen und Schwerpunkt
+- 
 
 
 
