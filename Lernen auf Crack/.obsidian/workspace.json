@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "2c1a3a142d55807a",
+    "type": "split",
+    "children": [
+      {
+        "id": "45f39d34cd72fd75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ff7340356f62a61",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "cca4441ed5f10054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bachelorarbeit/1.Analysephase/1. Analysephase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c92ae0292a18628c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bachelorarbeit/4. Evaluation/4. Evaluation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e623fcb64411942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bachelorarbeit/1.Analysephase/Notizen AP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84b6de685a180633",
+    "type": "split",
+    "children": [
+      {
+        "id": "432e08be2bcb0754",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "060ca6c1715e84bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec67c09435554921",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c1225bd799470b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6a3463bd266f06b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6da362554d1c44a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a16a1bdf1e27c70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bachelorarbeit/1.Analysephase/Notizen AP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "596b283df6097cc3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bachelorarbeit/1.Analysephase/Notizen AP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1573ea968f225a7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9a40c40f8d36955e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bachelorarbeit/1.Analysephase/Notizen AP.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "060ca6c1715e84bb",
+  "lastOpenFiles": [
+    "Bachelorarbeit/1.Analysephase/1. Analysephase.md",
+    "Bachelorarbeit/3. Realisierung/Notizen RP.md",
+    "Bachelorarbeit/4. Evaluation/Notizen EP.md",
+    "Bachelorarbeit/1.Analysephase/Notizen AP.md",
+    "Bachelorarbeit/2. Konzeptionsphase/Notizen KP.md",
+    "Bachelorarbeit/Main.md",
+    "Bachelorarbeit/4. Evaluation/4. Evaluation.md",
+    "Bachelorarbeit/3. Realisierung/3. Realisierung.md",
+    "Bachelorarbeit/4. Evaluation",
+    "Bachelorarbeit/2. Konzeptionsphase/2. Konzeptionsphase.md",
+    "Bachelorarbeit/3. Realisierung",
+    "Bachelorarbeit/2. Konzeptionsphase",
+    "Bachelorarbeit/1.Analysephase",
+    "Bachelorarbeit.md",
+    "Bachelorarbeit",
+    "Vorlesung 1.md",
+    "Tägliche_Aufgaben.md.md",
+    "Gesundheit und Krankheit.md",
+    "Dashboard.md.md",
+    "2. Vorlesung Sozis sind kacke.md"
+  ]
+}
