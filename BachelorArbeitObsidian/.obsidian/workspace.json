@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "b20d63e00c6d3767",
+    "type": "split",
+    "children": [
+      {
+        "id": "326cc5430e3df96f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "014cb020445914ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bachelor Arbeit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b5bfca894a83b4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analysephase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f67d610f349aed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "654ebe3faf79215f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "021d31e5b95a18f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52efc494a72d6be1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2c8637ccddacddd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 205.00260543823242
+  },
+  "right": {
+    "id": "7a2e8b8955678d50",
+    "type": "split",
+    "children": [
+      {
+        "id": "97368fcb3eace63f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b19f3a231fb3e158",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Analysephase.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2276dd8536468db5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Analysephase.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8070351d9d2c74a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f2b9fb1a3743530d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Analysephase.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7b5bfca894a83b4a",
+  "lastOpenFiles": [
+    "Pasted image 20240627095645.png",
+    "Pasted image 20240627095112.png",
+    "Pasted image 20240627094945.png",
+    "Pasted image 20240627094930.png",
+    "Bachelor Arbeit.md",
+    "Analysephase.md"
+  ]
+}
