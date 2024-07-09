@@ -74,3 +74,14 @@ Hier werden der Nutzungskontext und die Nutzergruppen analysiert, beschrieben un
 | **Synthese der Analyseergebnisse**  | -                                                                                                                                                                                                                                                                                   | -                                                                                                                                                                                                                                                           | Zusammenführung aller gesammelten Daten und Erkenntnisse, Erstellung eines umfassenden Analyseberichts                                                                                      |         |
 | **Präsentation der Ergebnisse**     | -                                                                                                                                                                                                                                                                                   | -                                                                                                                                                                                                                                                           | Vorstellung der Analyseergebnisse vor dem Projektteam und eventuell wichtigen Stakeholdern                                                                                                  |         |
 
+
+
+### Analysephase: Aufgaben und Übersicht:
+
+**Bücher:**
+- Beyer, H., & Holtzblatt, K. (1998). _Contextual Design: Defining Customer-Centered Systems_. Morgan Kaufmann.
+- Pruitt, J., & Adlin, T. (2010). _The Persona Lifecycle: Keeping People in Mind Throughout Product Design_. Morgan Kaufmann.
+
+**Artikel:**
+- Grudin, J., & Pruitt, J. (2002). Personas, participatory design and product development: An infrastructure for engagement. _Proceedings of the Participatory Design Conference_.
+- Miaskiewicz, T., & Kozar, K. A. (2011). Personas and user-centered design: How can personas benefit product design processes? _Design Studies_, 32(5), 417-430.
