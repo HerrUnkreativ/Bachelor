@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BachelorArbeitObsidian/Analysephase.md",
+                "file": "BachelorArbeitObsidian/Analysephase/Main.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5cf1f9e3d363bc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BachelorArbeitObsidian/Analysephase/Contextual Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planung.md",
+                "file": "BachelorArbeitObsidian/Analysephase/Contextual Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planung.md",
+                "file": "BachelorArbeitObsidian/Analysephase/Contextual Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planung.md"
+                "file": "BachelorArbeitObsidian/Analysephase/Contextual Design.md"
               }
             }
           }
@@ -159,17 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fde5d9e169ff2647",
+  "active": "f5cf1f9e3d363bc0",
   "lastOpenFiles": [
-    "Zeitplan.png",
-    "Zeitplan.pdf",
-    "Vorschlag bei Arbeiten WESSEL - Expose_Template_wes 2021-04-29.pdf",
-    "Planung.md",
+    "BachelorArbeitObsidian/Bachelor Arbeit.md",
+    "BachelorArbeitObsidian/Pasted image 20240627094945.png",
+    "BachelorArbeitObsidian/Pasted image 20240627095112.png",
+    "BachelorArbeitObsidian/Pasted image 20240627095645.png",
     "Mappe1.pdf",
-    "Expose_23April_ErikWolfram.pdf",
-    "Expose_19April_ErikWolfram.pdf",
-    "Expose_18April_ErikWolfram.pdf",
-    "BachelorAnmeldungErikWolfram.pdf",
-    "BachelorArbeitObsidian/Analysephase.md"
+    "BachelorArbeitObsidian/Analysephase/Contextual Design.md",
+    "BachelorArbeitObsidian/Analysephase/Main.md",
+    "Planung.md",
+    "Zeitplan.pdf",
+    "Zeitplan.png",
+    "BachelorArbeitObsidian/Analysephase"
   ]
 }
