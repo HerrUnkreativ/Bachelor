@@ -1,3 +1,5 @@
 {
-  "theme": "system"
+  "theme": "system",
+  "cssTheme": "Mado Miniflow",
+  "accentColor": "#e9b172"
 }

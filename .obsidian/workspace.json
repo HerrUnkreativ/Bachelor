@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6f6561a27e8e486b",
@@ -173,11 +174,16 @@
   },
   "active": "f5cf1f9e3d363bc0",
   "lastOpenFiles": [
-    "BachelorArbeitObsidian/Analysephase/Main.md",
+    "BachelorArbeitObsidian/Bachelor Arbeit.md",
+    "BachelorArbeitObsidian/Pasted image 20240627094945.png",
+    "BachelorArbeitObsidian/Pasted image 20240627095112.png",
+    "BachelorArbeitObsidian/Pasted image 20240627095645.png",
+    "Mappe1.pdf",
     "BachelorArbeitObsidian/Analysephase/Contextual Design.md",
-    "BachelorArbeitObsidian/Analysephase",
+    "BachelorArbeitObsidian/Analysephase/Main.md",
     "Planung.md",
+    "Zeitplan.pdf",
     "Zeitplan.png",
-    "Zeitplan.pdf"
+    "BachelorArbeitObsidian/Analysephase"
   ]
 }
