@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6f6561a27e8e486b",
@@ -162,9 +161,15 @@
   },
   "active": "fde5d9e169ff2647",
   "lastOpenFiles": [
-    "BachelorArbeitObsidian/Analysephase.md",
-    "Planung.md",
     "Zeitplan.png",
-    "Zeitplan.pdf"
+    "Zeitplan.pdf",
+    "Vorschlag bei Arbeiten WESSEL - Expose_Template_wes 2021-04-29.pdf",
+    "Planung.md",
+    "Mappe1.pdf",
+    "Expose_23April_ErikWolfram.pdf",
+    "Expose_19April_ErikWolfram.pdf",
+    "Expose_18April_ErikWolfram.pdf",
+    "BachelorAnmeldungErikWolfram.pdf",
+    "BachelorArbeitObsidian/Analysephase.md"
   ]
 }
