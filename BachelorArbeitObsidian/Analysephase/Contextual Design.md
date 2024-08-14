@@ -1,4 +1,18 @@
-#####  Contextual Design: Defining Customer-Centered Systems (1998, Beyer, H. & Holtzblatt,)(Beyer, H., & Holtzblatt, K. (1998).)
-- **Contextual Inquiry**: Eine Methode der Datenerhebung, die Nutzer in ihrem natürlichen Umfeld beobachtet und befragt, um ein tiefes Verständnis ihrer Aufgaben, Bedürfnisse und Probleme zu gewinnen.
-- **Work Models**: Diagramme und Modelle, die die Arbeit der Nutzer und ihre Interaktionen visualisieren, um Probleme und Verbesserungspotenziale zu identifizieren.
-- **Visioning und Storyboarding**: Techniken zur Entwicklung und Kommunikation von Konzepten basierend auf den erhobenen Daten und Modellen.
+| Quelle                                                                                                                          | Inhalt                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Bücher**                                                                                                                      |                                                                                                                                                                                                                                                                                   |
+| Beyer, H., & Holtzblatt, K. (1998). _Contextual Design: Defining Customer-Centered Systems_                                     | - **Contextual Inquiry**: Nutzer in ihrem natürlichen Umfeld beobachten und befragen<br>- **Work Models**: Visualisierung der Arbeit und Interaktionen der Nutzer<br>- **Visioning und Storyboarding**: Entwicklung und Kommunikation von Konzepten basierend auf erhobenen Daten |
+| Pruitt, J., & Adlin, T. (2010). _The Persona Lifecycle: Keeping People in Mind Throughout Product Design_                       | - **Persona Creation**: Erstellung detaillierter und realitätsnaher Personas<br>- **Persona Usage**: Integration von Personas in den gesamten Designprozess<br>- **Scenarios**: Nutzung von Personas zur Entwicklung von Nutzungsszenarien                                        |
+| **Artikel**                                                                                                                     |                                                                                                                                                                                                                                                                                   |
+| Grudin, J., & Pruitt, J. (2002). _Personas, participatory design and product development: An infrastructure for engagement_     | - **Participatory Design**: Einbeziehung der Nutzer in den Designprozess<br>- **Personas als Kommunikationswerkzeug**: Verbesserung der Kommunikation zwischen Entwicklungsteams und Stakeholdern                                                                                 |
+| Miaskiewicz, T., & Kozar, K. A. (2011). _Personas and user-centered design: How can personas benefit product design processes?_ | - **User-Centered Design (UCD)**: Designansatz, der Nutzerbedürfnisse in den Mittelpunkt stellt<br>- **Personas als Analysetool**: Analyse von Nutzeranforderungen und Priorisierung von Funktionen                                                                               |
+### Fazit:
+- Nutzer in natürlicher Umgebungssituation ==beobachten und befragen== und Arbeit sowie Interaktionen durch Modell ==visualisieren==
+- Basierend auf Usability und UX Tests können ==Personas== erstellt werden (die repräsentieren die Zielgruppe)
+- Personas verbessern ==Kommunikation/Verständnis== der Situationen für Leser der BA
+- Personas helfen im UCD die ==Nutzeranforderungen zu erkennen== und ==Funktionen zu Priorisieren== (gut im Limitierten Zeitauftrag)
+
+
+
+## Inhalte
+
