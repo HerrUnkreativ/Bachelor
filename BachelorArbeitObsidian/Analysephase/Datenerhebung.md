@@ -13,7 +13,7 @@
 
 - [x] Onsite-Befragung
 - [x] **Kontextinterview**
-- [ ] **Nutzeranalyse**
+- [x] **Nutzeranalyse**
 - [ ] **Personas**
 - [ ] **Customer Journey Mapping**
 - [ ] **Szenarien des "Ist"-Zustands**
@@ -280,16 +280,31 @@ Vielen Dank für Ihre Teilnahme. Diese Umfrage dient dazu, den Prozess zu verste
 >- ==**Bevorzugung von Text über Video**==: Die Mehrheit der Online-Nutzer bevorzugt es, Nachrichten zu lesen statt sie anzusehen oder anzuhören. Allerdings nimmt der Konsum von Video-Nachrichten, insbesondere über Plattformen wie YouTube, zu.
   >  
 >- ==**Podcasts gewinnen an Beliebtheit**==: Nachrichten-Podcasts sind besonders bei gebildeten und jüngeren Zielgruppen beliebt, auch wenn sie insgesamt noch eine Minderheit darstellen.
+>
+>**Fazit**
+>_Plattformen wie Instagram, TikTok, Youtube und Twitter Hauptinformationsquellen, da eine Mischung aus Nachrichten, Meinungen und Unterhaltung geboten wird. Gleichzeitig werden traditionellen Nachrichten-Websites und Apps eher über Hintertüren genutzt/gefunden (z.b. Google suche, nicht auf dem Nachrichtenmedium. Zusätzlich spielen Influenzer und Prominente eine größere Rolle als Journalisten, was empfehlungen angeht.
+>Der **Digital News Report 2023** des Reuters Institute for the Study of Journalism beschreibt diese Trends sehr detailliert. Der Bericht zeigt, dass der direkte Besuch von Nachrichten-Websites bei jungen Menschen stark abgenommen hat, während soziale Medien eine immer größere Rolle spielen._
+>
+>
+>>Newman, N., Fletcher, R., Eddy, K., Robertson, C. T., & Nielsen, R. K. (2023). _Reuters Institute Digital News Report 2023_. Reuters Institute for the Study of Journalism. [https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2023-06/Digital_News_Report_2023.pdf](https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2023-06/Digital_News_Report_2023.pdf)
 
 
 
 >[!NOTE] JIM-Studie 2022
 >**Desinformation und Beleidigungen im Netz (Phänomene begegnet)**
->- 58 Prozent mit Fake News in Kontakt gekommen
+>- ==58% mit Fake News in Kontakt gekommen==
 >- die Hälfte mit beleidigenden Kommentaren
->- 
+>- ![[Pasted image 20240814091447.png]]
+>- ==Jungen häufiger mit extremen politischen Ansichten== und Verschwörungstheorien in Kontakt 
+>- Mit Alter steigt auch Anteil an Jugendlichen, welche im Netz Fake News, extreme pol. Ansichten und Verschwörungstheorien begegnen
+>- unklar, ob Teilgruppen (Art der Schule, Geschlecht etc.) besser in der Lage sind Inhalte zuzuordnen
+>- ![[Pasted image 20240814092007.png]]
+>
+>
+>>Medienpädagogischer Forschungsverbund Südwest. (2022). _JIM-Studie 2022: Jugend, Information, (Multi-)Media_. https://www.mpfs.de/studien/jim-studie/2022/
 
-
+>[!NOTE] **Eurobarometer** Falschinformationen im Internet
+>
 
 | Benutzer | Aufgaben | Umgebung | Ressourcen |
 | -------- | -------- | -------- | ---------- |
