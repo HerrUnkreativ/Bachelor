@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"891694e4b971482b","type":"text","text":"1 Review Goals","x":-840,"y":-200,"width":250,"height":60},
+		{"id":"0486bbc0221b4476","type":"text","text":"2 Gather Research","x":-840,"y":-100,"width":250,"height":60},
+		{"id":"e5fa17f854872231","type":"text","text":"3 Touchpoints","x":-840,"y":0,"width":250,"height":60},
+		{"id":"9e2adac2af771b09","type":"text","text":"4 Empathy Map","x":-840,"y":100,"width":250,"height":60},
+		{"id":"c254cb4708c690fa","type":"text","text":"5 Brainstorm with Lenses","x":-840,"y":205,"width":250,"height":60},
+		{"id":"a5c73a0ca275482b","type":"text","text":"6 Infinity Diagram","x":-840,"y":320,"width":250,"height":50},
+		{"id":"687dc25d205ec02b","type":"text","text":"7 Skething the Customer Journey","x":-840,"y":435,"width":250,"height":60},
+		{"id":"24e68b8b968e4921","type":"text","text":"8 Refine & Digitize","x":-840,"y":540,"width":250,"height":60},
+		{"id":"2b415e518eeeade4","type":"text","text":"# Customer Journey","x":-300,"y":-320,"width":380,"height":60}
+	],
+	"edges":[]
+}

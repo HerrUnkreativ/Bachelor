@@ -4,3 +4,6 @@ Ende Konzeption eine Zwischenabgabe für Feedback (Analyse und Konzeption)
 
 Nächste Woche Mittwoch 10.07 10:00
 
+**29.08 10 Uhr Feedback**
+- **Workshop vorbereiten** 
+- "Abstract-Bachelorarbeit (Halbe Seite)"

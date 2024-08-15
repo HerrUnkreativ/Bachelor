@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BachelorArbeitObsidian/Analysephase/zWunschliste Paper Analysephase.md",
+                "file": "Planung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.01103591918945,
-    "collapsed": true
+    "width": 294.01103591918945
   },
   "right": {
     "id": "6f6561a27e8e486b",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
+                "file": "Planung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
+                "file": "Planung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BachelorArbeitObsidian/Analysephase/Datenerhebung.md"
+                "file": "Planung.md"
               }
             }
           }
@@ -159,20 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5cf1f9e3d363bc0",
+  "active": "9c50512b4c9dcf2e",
   "lastOpenFiles": [
+    "BachelorArbeitObsidian/Konzeptionsphase/Methoden_Konzeptionsphase.md",
+    "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
+    "Zeitplan.pdf",
+    "Szenario 1.canvas",
+    "Planung.md",
+    "BachelorArbeitObsidian/Bachelor Arbeit.md",
+    "Untitled.canvas",
+    "BachelorArbeitObsidian/Analysephase/xMain.md",
+    "BachelorArbeitObsidian/Analysephase/zWunschliste Paper Analysephase.md",
+    "BachelorArbeitObsidian/Analysephase/Wahlentscheidung bei Altersunterschieden.md",
+    "BachelorArbeitObsidian/Analysephase/Testpersonen.md",
+    "BachelorArbeitObsidian/Analysephase/Politische Bildung und Informationsbeschaffung.md",
     "Pasted image 20240814092007.png",
     "Pasted image 20240814091447.png",
     "BachelorArbeitObsidian/Analysephase/Source/JIM_2023_web_final.pdf",
     "BachelorArbeitObsidian/Analysephase/Source/JIM_2023_web_final.pdf.crdownload",
-    "BachelorArbeitObsidian/Analysephase/Politische Bildung und Informationsbeschaffung.md",
-    "BachelorArbeitObsidian/Analysephase/Testpersonen.md",
-    "BachelorArbeitObsidian/Analysephase/Wahlentscheidung bei Altersunterschieden.md",
-    "BachelorArbeitObsidian/Analysephase/zWunschliste Paper Analysephase.md",
-    "BachelorArbeitObsidian/Analysephase/xMain.md",
     "BachelorArbeitObsidian/Analysephase/Personas.md",
-    "BachelorArbeitObsidian/Konzeptionsphase/Methoden_Konzeptionsphase.md",
-    "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
     "BachelorArbeitObsidian/Konzeptionsphase",
     "BachelorArbeitObsidian/Analysephase/Contextual Design.md",
     "Zeitplan.png",
@@ -182,9 +187,6 @@
     "BachelorArbeitObsidian/Analysephase/Source/Refining the Test Phase of Usability Evaluation.pdf",
     "BachelorArbeitObsidian/Analysephase/Source/Partisanship and Political Sophistication During and Outside of Election Times.pdf",
     "BachelorArbeitObsidian/Analysephase/Source/The Communication Review.pdf",
-    "BachelorArbeitObsidian/Analysephase/Source/Becoming a Habitual Voter.pdf",
-    "BachelorArbeitObsidian/Bachelor Arbeit.md",
-    "Planung.md",
     "BachelorArbeitObsidian/Pasted image 20240627094945.png",
     "BachelorArbeitObsidian/Pasted image 20240627095112.png",
     "BachelorArbeitObsidian/Pasted image 20240627095645.png"
