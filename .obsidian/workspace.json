@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planung.md",
+                "file": "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planung.md",
+                "file": "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planung.md"
+                "file": "BachelorArbeitObsidian/Analysephase/Datenerhebung.md"
               }
             }
           }
@@ -159,13 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c50512b4c9dcf2e",
+  "active": "f5cf1f9e3d363bc0",
   "lastOpenFiles": [
+    "Planung.md",
     "BachelorArbeitObsidian/Konzeptionsphase/Methoden_Konzeptionsphase.md",
     "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
     "Zeitplan.pdf",
     "Szenario 1.canvas",
-    "Planung.md",
     "BachelorArbeitObsidian/Bachelor Arbeit.md",
     "Untitled.canvas",
     "BachelorArbeitObsidian/Analysephase/xMain.md",
