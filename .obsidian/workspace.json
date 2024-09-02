@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c50512b4c9dcf2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planung.md",
+                "file": "BachelorArbeitObsidian/Konzeptionsphase/Methoden_Konzeptionsphase.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
+                "file": "BachelorArbeitObsidian/Konzeptionsphase/Methoden_Konzeptionsphase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
+                "file": "BachelorArbeitObsidian/Konzeptionsphase/Methoden_Konzeptionsphase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BachelorArbeitObsidian/Analysephase/Datenerhebung.md"
+                "file": "BachelorArbeitObsidian/Konzeptionsphase/Methoden_Konzeptionsphase.md"
               }
             }
           }
@@ -155,19 +143,31 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f5cf1f9e3d363bc0",
   "lastOpenFiles": [
-    "Planung.md",
-    "BachelorArbeitObsidian/Konzeptionsphase/Methoden_Konzeptionsphase.md",
-    "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
+    "Zeitplan.png",
     "Zeitplan.pdf",
-    "Szenario 1.canvas",
+    "BachelorArbeitObsidian/Konzeptionsphase/Methoden_Konzeptionsphase.md",
     "BachelorArbeitObsidian/Bachelor Arbeit.md",
-    "Untitled.canvas",
+    "Excalidraw/Skizze04.excalidraw.md",
+    "Excalidraw/Skizze04mobile.excalidraw.md",
+    "Excalidraw/Skizze01.excalidraw.md",
+    "Excalidraw/Skizze03mobile.excalidraw.md",
+    "Excalidraw/Skizze02mobile.excalidraw.md",
+    "Excalidraw/Skizze03.excalidraw.md",
+    "Excalidraw/Skizze01mobile.excalidraw.md",
+    "Excalidraw/Skizze02.excalidraw.md",
+    "BachelorArbeitObsidian/Konzeptionsphase/InhalteStruktieren.canvas",
+    "Excalidraw",
+    "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
+    "Planung.md",
     "BachelorArbeitObsidian/Analysephase/xMain.md",
+    "BachelorArbeitObsidian/Analysephase/Szenario 1.canvas",
+    "Untitled.canvas",
     "BachelorArbeitObsidian/Analysephase/zWunschliste Paper Analysephase.md",
     "BachelorArbeitObsidian/Analysephase/Wahlentscheidung bei Altersunterschieden.md",
     "BachelorArbeitObsidian/Analysephase/Testpersonen.md",
@@ -179,13 +179,11 @@
     "BachelorArbeitObsidian/Analysephase/Personas.md",
     "BachelorArbeitObsidian/Konzeptionsphase",
     "BachelorArbeitObsidian/Analysephase/Contextual Design.md",
-    "Zeitplan.png",
     "BachelorArbeitObsidian/Analysephase/Source/Becoming a Habitual Voter - Inertia, Resourcesand Growth in Young Adulthood.pdf",
     "BachelorArbeitObsidian/Analysephase/Source/Personas and user-centered design.pdf",
     "BachelorArbeitObsidian/Analysephase/Source/Personas is not Applicable.pdf",
     "BachelorArbeitObsidian/Analysephase/Source/Refining the Test Phase of Usability Evaluation.pdf",
     "BachelorArbeitObsidian/Analysephase/Source/Partisanship and Political Sophistication During and Outside of Election Times.pdf",
-    "BachelorArbeitObsidian/Analysephase/Source/The Communication Review.pdf",
     "BachelorArbeitObsidian/Pasted image 20240627094945.png",
     "BachelorArbeitObsidian/Pasted image 20240627095112.png",
     "BachelorArbeitObsidian/Pasted image 20240627095645.png"

@@ -15,11 +15,42 @@ _Treetests sind auch sehr interessant für die Navigation_
 >3. Geben Sie den so entstehenden Kartengruppen einen ==Namen==
 >4. Ordnen Sie, wenn nötig und sinnvoll, mehrere Kartengruppenwiederum einem ==übergeordneten Thema== zu und vergeben Sie auch dafür einen Namen
 
+![[InhalteStruktieren.canvas|InhalteStruktieren]]
 ## User Interface erstellen
 >Darstellung und UI aufbauen
 
->[!NOTE] Skizzen
+### Skizzen
+>[!NOTE]  Skizze Dashboard/Landingscreen Idee 01
+>**Desktop**
+>![[Skizze01.excalidraw|1080]]
+>**Mobile**
+>![[Skizze01mobile.excalidraw|1080]]
 
+>[!NOTE]  Skizze Dashboard/Landingscreen Idee 02
+>**Desktop**
+>![[Skizze02.excalidraw|1080]]
+>**Mobile**
+>![[Skizze02mobile.excalidraw|1080]]
+
+>[!NOTE] Sitzungen
+>**Desktop**
+>![[Skizze03.excalidraw|1080]]
+>
+>**mobile**
+>![[Skizze03mobile.excalidraw|1080]]
+
+>[!NOTE] Single Topic
+>**Desktop**
+>![[Skizze04.excalidraw|1080]]
+>
+>**Mobile**
+>![[Skizze04mobile.excalidraw|1080]]
+
+
+
+
+
+## Prototypen
 >[!NOTE] Prototypen (Rapid Prototyping)
 
 >[!NOTE] Wireframes
