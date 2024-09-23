@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"715d93f6bd311e28","type":"text","text":"**Drucksache_Topics**\ndruckId INT\ntopicId INT\nPRIMARY KEY (drucksacheId, topicId),\nFOREIGN KEY (drucksache ID) REFERENCES Drucksache(drucksacheId),\nFOREIGN KEY (topicId) REFERENCES Topics(id)","x":-350,"y":-480,"width":530,"height":220},
+		{"id":"ecc005d592913294","type":"text","text":"**Vorschläge/Alternativantrag**\ndruckID\nnewDrucksache VARCHAR(255)\ntitle VARCHAR(255) \nverbesserungen\n","x":600,"y":-23,"width":420,"height":186},
+		{"id":"1c6c5ab6068a651b","type":"text","text":"**Abstimmungsergebniss**\nVoteId SERIAL PRIMARY KEY\ndruckId INT,\nja_stimmen INT,\nnein_stimmen INT,\nenthaltungen INT,\nfraktion_ja_stimme VARCHAR(255),\nfraktion_nein_stimme VARCHAR(255),\nfraktion_enthalten_stimme VARCHAR(255),\nstatus ENUM('angenommen, 'abgelehnt'),\nFOREIGN KEY (druckId) REFERENCES Drucksache(drucksacheId)\n\n","x":600,"y":-440,"width":720,"height":320},
+		{"id":"e58827e61a546015","type":"text","text":"**Drucksache_Argument**\ndruckId INT,\nargumentId  INT, \n PRIMARY KEY (drucksacheId, argumentId), \n FOREIGN KEY (drucksacheId) REFERENCES Drucksache(drucksacheId), \n FOREIGN KEY (argumentId) REFERENCES Argument(argumentId)","x":-407,"y":360,"width":645,"height":192},
+		{"id":"2936866434fc2f8f","type":"text","text":"**Drucksache**\ndruckId PRIMAEY KEY\nnumber INT NOT NULL\ntitle VARCHAR(255) NOT NULL\nbackground VARCHAR(255) NOT NULL\nisNew BOOL\ndebateId FOREIGN KEY (debateId) REFERENCES Debatte(debateId)","x":-294,"y":-140,"width":614,"height":260},
+		{"id":"90969b45e8880856","type":"text","text":"**Sitzungen**\nsitzungsId PRIMARY KEY\nnumber INT NOT NULL\nDatum DATE NOT NULL\nWahlperiode INT","x":-1240,"y":-105,"width":330,"height":134},
+		{"id":"a116289686793a1c","type":"text","text":"**Debatten**\ndebateId PRIMARY KEY\nsitzungsId FOREIGN KEY","x":-800,"y":-83,"width":300,"height":97},
+		{"id":"2b6cf8ca9cd9b8a3","type":"text","text":"**Alternativantrag_Verbesserungen**\ndruckID\nnewDrucksache VARCHAR(255)\ntitle VARCHAR(255) \nverbesserungen\n","x":1180,"y":-23,"width":420,"height":186},
+		{"id":"3724da8c86ce8b49","type":"text","text":"**Verbesserungen**\nadjustId PRIMARY KEY,\nadjustment TEXT NOT NULL,\nfraktion VARCHAR(255) NOT NULL","x":1680,"y":-23,"width":420,"height":186},
+		{"id":"ec207ffae3752c1f","type":"text","text":"**Topics**\ntopicId PRIMARY KEY \nKategorie VARCHAR(255)","x":-250,"y":-700,"width":330,"height":120},
+		{"id":"94be10f5c8021e03","type":"text","text":"**Argument**\nargumentId  SERIAL PRIMARY KEY\n argument TEXT NOT NULL\nfraktion ENUM('Grüne', 'SPD', 'CDU', 'FDP', 'Linke', 'SSW')\nsource (PDF - Page) TEXT\nstatus ENUM('Pro, 'Kontra') NOT NULL","x":-346,"y":680,"width":524,"height":220}
+	],
+	"edges":[
+		{"id":"bca2580b91179304","fromNode":"2936866434fc2f8f","fromSide":"top","toNode":"715d93f6bd311e28","toSide":"bottom","toEnd":"none","label":"n\nl\nn"},
+		{"id":"18c4c426eee87b69","fromNode":"2936866434fc2f8f","fromSide":"right","toNode":"1c6c5ab6068a651b","toSide":"left","toEnd":"none","label":"1------n"},
+		{"id":"bd2d61720f87b12d","fromNode":"90969b45e8880856","fromSide":"right","toNode":"a116289686793a1c","toSide":"left","toEnd":"none","label":"1-------n"},
+		{"id":"4f587d94174664d6","fromNode":"a116289686793a1c","fromSide":"right","toNode":"2936866434fc2f8f","toSide":"left","toEnd":"none","label":"n------n"},
+		{"id":"1669aa3d06bf3d20","fromNode":"2936866434fc2f8f","fromSide":"right","toNode":"ecc005d592913294","toSide":"left","toEnd":"none","label":"1-----n"},
+		{"id":"452fe2a240fb4048","fromNode":"e58827e61a546015","fromSide":"bottom","toNode":"94be10f5c8021e03","toSide":"top","toEnd":"none"},
+		{"id":"e0e24bd1a68e4c6e","fromNode":"2936866434fc2f8f","fromSide":"bottom","toNode":"e58827e61a546015","toSide":"top","toEnd":"none","label":"1\nl\nn"},
+		{"id":"1c8518dfc658344d","fromNode":"ec207ffae3752c1f","fromSide":"bottom","toNode":"715d93f6bd311e28","toSide":"top"},
+		{"id":"5691bba336ca71c1","fromNode":"2b6cf8ca9cd9b8a3","fromSide":"right","toNode":"3724da8c86ce8b49","toSide":"left","toEnd":"none","label":"1-n"},
+		{"id":"f36949a874bb4b5b","fromNode":"ecc005d592913294","fromSide":"right","toNode":"2b6cf8ca9cd9b8a3","toSide":"left","toEnd":"none","label":"1-1"}
+	]
+}
