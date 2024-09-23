@@ -68,4 +68,37 @@ _Treetests sind auch sehr interessant für die Navigation_
 >_t-test_
 
 
+Prototyp 1:
+https://www.figma.com/proto/Fl4dilq4scF4HkCMb6ZRbY/Prototyp-1?node-id=0-1&t=SC1H2zHFJH5Jb5lZ-1
+
+Prototyp 2:
+https://www.figma.com/proto/9KbzKeUZrGRtS3FUOFI5Z2/Prototyp-2?node-id=0-1&t=hqQSww071uZr153X-1
+
+
+
+Feedback:
+- **Pro und Kontra immer eindeutig**
+- **Video eine gute idee**
+- Navigation überdenken
+- Die Abstimmung nicht immer 
+- Kontext 
+- Arguemnte eventuell nicht immer Klar 
+- Call to action 
+- Abgeordnetenwatch reinschauen
+- **Stellungnahmen einbinden**
+- **Checkboxen statt Bullepoints**
+- **Übersicht der Vertretenen Parteien**
+
+
+Donnerstag 10:00 Uhr. 
+
+- [ ]   1 UI:
+- erstmal 
+- Prozess tracken
+- sind die Informationen der Nutzer zugänglich
+- Vergleich zwishcne Webseite und Prototyp
+	- Nutzerfreundlichkeit
+	- etc.
+	- IP Adressen Matchen
+	- 
 

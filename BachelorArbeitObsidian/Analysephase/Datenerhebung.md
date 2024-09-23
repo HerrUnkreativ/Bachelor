@@ -450,3 +450,17 @@ https://docs.google.com/forms/d/1NEZYnWH2Csgy5-EjAyMnVxrzYU_LNRR2zPZXsQWStOY/edi
 
 
 ## André Calero und seine Research Group für potenziellen Zweitprüfer oder Zweitprüferin (min Doktortitel) https://www.imis.uni-luebeck.de/de/institut/team/andre-calero-valdez
+
+
+# Abstract:
+- Motivation/Problem
+	- 
+- Ziel
+	- 
+- Und Schritte zum Ziel
+
+Dienstag 01.10, 09:30 
+- Zwischenabgabe
+- Frontend
+- Mock-Ups
+- 

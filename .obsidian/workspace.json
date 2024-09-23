@@ -13,9 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BachelorArbeitObsidian/Konzeptionsphase/Methoden_Konzeptionsphase.md",
+                "file": "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "39dd0709e62622dd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "BachelorArbeitObsidian/Konzeptionsphase/InhalteStruktieren.canvas",
+                "viewState": {
+                  "x": 29.5,
+                  "y": 70,
+                  "zoom": -1.1180432097441173
+                }
               }
             }
           }
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BachelorArbeitObsidian/Konzeptionsphase/Methoden_Konzeptionsphase.md",
+                "file": "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BachelorArbeitObsidian/Konzeptionsphase/Methoden_Konzeptionsphase.md",
+                "file": "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BachelorArbeitObsidian/Konzeptionsphase/Methoden_Konzeptionsphase.md"
+                "file": "BachelorArbeitObsidian/Analysephase/Datenerhebung.md"
               }
             }
           }
@@ -149,25 +164,28 @@
   },
   "active": "f5cf1f9e3d363bc0",
   "lastOpenFiles": [
-    "Zeitplan.png",
-    "Zeitplan.pdf",
     "BachelorArbeitObsidian/Konzeptionsphase/Methoden_Konzeptionsphase.md",
+    "BachelorArbeitObsidian/Konzeptionsphase/InhalteStruktieren.canvas",
+    "Excalidraw/Drawing 2024-09-05 11.00.59.excalidraw.md",
+    "Excalidraw/Skizze01.excalidraw.md",
+    "Untitled.canvas",
+    "Pasted image 20240906083204.png",
+    "BachelorArbeitObsidian/Analysephase/Szenario 1.canvas",
+    "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
+    "Zeitplan.pdf",
+    "Zeitplan.png",
+    "BachelorArbeitObsidian/Analysephase/Contextual Design.md",
     "BachelorArbeitObsidian/Bachelor Arbeit.md",
     "Excalidraw/Skizze04.excalidraw.md",
     "Excalidraw/Skizze04mobile.excalidraw.md",
-    "Excalidraw/Skizze01.excalidraw.md",
     "Excalidraw/Skizze03mobile.excalidraw.md",
     "Excalidraw/Skizze02mobile.excalidraw.md",
     "Excalidraw/Skizze03.excalidraw.md",
     "Excalidraw/Skizze01mobile.excalidraw.md",
     "Excalidraw/Skizze02.excalidraw.md",
-    "BachelorArbeitObsidian/Konzeptionsphase/InhalteStruktieren.canvas",
     "Excalidraw",
-    "BachelorArbeitObsidian/Analysephase/Datenerhebung.md",
     "Planung.md",
     "BachelorArbeitObsidian/Analysephase/xMain.md",
-    "BachelorArbeitObsidian/Analysephase/Szenario 1.canvas",
-    "Untitled.canvas",
     "BachelorArbeitObsidian/Analysephase/zWunschliste Paper Analysephase.md",
     "BachelorArbeitObsidian/Analysephase/Wahlentscheidung bei Altersunterschieden.md",
     "BachelorArbeitObsidian/Analysephase/Testpersonen.md",
@@ -178,7 +196,6 @@
     "BachelorArbeitObsidian/Analysephase/Source/JIM_2023_web_final.pdf.crdownload",
     "BachelorArbeitObsidian/Analysephase/Personas.md",
     "BachelorArbeitObsidian/Konzeptionsphase",
-    "BachelorArbeitObsidian/Analysephase/Contextual Design.md",
     "BachelorArbeitObsidian/Analysephase/Source/Becoming a Habitual Voter - Inertia, Resourcesand Growth in Young Adulthood.pdf",
     "BachelorArbeitObsidian/Analysephase/Source/Personas and user-centered design.pdf",
     "BachelorArbeitObsidian/Analysephase/Source/Personas is not Applicable.pdf",
