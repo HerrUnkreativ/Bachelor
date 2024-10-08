@@ -235,8 +235,8 @@ https://docs.google.com/forms/d/1NEZYnWH2Csgy5-EjAyMnVxrzYU_LNRR2zPZXsQWStOY/edi
 ## Auswertung der Interviews:
 ### 1. Benutzer
 
-| Eigenschaften   | Interview 1                                                                                                                                                                      | Interview 2                                                                                                                                         |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Eigenschaften       | Interview 1                                                                                                                                                                      | Interview 2                                                                                                                                         |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Profil**          | Nutzt das Internet aktiv zur Informationsbeschaffung, insbesondere bei politischen Themen                                                                                        | Nutzt Google zur Informationssuche, hat jedoch wenig Erfahrung mit Landtagsdebatten und deren Relevanz                                              |
 | **Verhalten**       | Ist eher seltener an Politik interessiert, da die Menge der Informationen überwältigend ist und die Zeit fehlt, sich ständig auf dem Laufenden zu halten.                        | Informiert sich gerne über Hintergründe, verliert aber schnell das Interesse, wenn die Informationen zu lang und unübersichtlich sind.              |
 | **Herausforderung** | Findet politische Informationen oft schwer zugänglich und unübersichtlich, was zu Frustration führt. Ist unsicher, ob die gefundenen Informationen korrekt und vollständig sind. | Schwierigkeiten, den Überblick über die Informationen auf der Webseite zu behalten. Lange Texte und unstrukturierte Inhalte führen zu Desinteresse. |
@@ -307,6 +307,7 @@ https://docs.google.com/forms/d/1NEZYnWH2Csgy5-EjAyMnVxrzYU_LNRR2zPZXsQWStOY/edi
 >>Newman, N., Fletcher, R., Eddy, K., Robertson, C. T., & Nielsen, R. K. (2023). _Reuters Institute Digital News Report 2023_. Reuters Institute for the Study of Journalism. [https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2023-06/Digital_News_Report_2023.pdf](https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2023-06/Digital_News_Report_2023.pdf)
 
 
+Newman, N., Levy, D. A. L., & Nielsen, R. K. (2023). Reuters Institute Digital News Report 2023. _SSRN Electronic Journal_. https://doi.org/10.2139/ssrn.2619576
 
 >[!NOTE] JIM-Studie 2022
 >**Desinformation und Beleidigungen im Netz (Phänomene begegnet)**
