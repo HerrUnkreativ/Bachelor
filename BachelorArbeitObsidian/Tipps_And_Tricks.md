@@ -426,18 +426,62 @@ Diese Struktur stellt sicher, dass sowohl funktionale als auch ästhetische Anfo
 ## 3.4 Systemarchitektur
 
 ## Webseiten
-Im Front-End soll 3 Hauptseiten geben, um die Anforderungen alle anbieten zu können.
+Die vorgestellten Funktionalitäten erfordern eine durchdachte Systemarchitektur, um eine effiziente und skalierbare Lösung zu gewährleisten. Deswegen wird ein Ansatz basierend auf dem Model-View-Controller (MVC)-Architekturmuster verwendet. Diese Struktur stellt sicher, dass die Verantwortlichkeiten klar aufgeteilt sind, und bietet eine Grundlage für Erweiterbarkeit sowie Wartbarkeit des Systems. Die drei Hauptkomponenten (Model, View, Controller) interagieren miteinander, um die verschiedenen Anforderungen der Webseiten zu erfüllen.
 
 **Landingpage**
-In der Landingpage sollen die Nutzenden mit einem modernen minimalistischen Design, dass mit Elementen von der Landeswebseite und dem Parlament dargestellt wird, um eine seriösität auszuströmen. Zusätzlich soll schnell die Suchfunktion als Hauptfunktionolalität angeboten werden, um schnell nach spezifischen Themen zu suchen. Des weiteren sollen hier die Themen der aktuellesten Sitzung aufgelistet werden, sowie die aktuellsten Beschlüsse.
+Die Landingpage dient als Einstiegsseite und zentraler Anlaufpunkt für Nutzende. Sie bietet eine Übersicht der neuesten Sitzungen und Beschlüsse sowie eine zentrale Suchfunktion. Diese Suchfunktion stellt die Kernfunktionalität der Seite dar, um Nutzern schnellen Zugang zu spezifischen Themen zu ermöglichen.
 
-**Debattenpage**
-Hier sollen alle Sitzungen erreichbar gemacht werden
+| **Model**      | - neuesten Informationen zu Sitzungen und Beschlüssen<br>- Verwendet Abfragen für aktuelle Daten und Beschlüsse                                                                                  |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **View**       | - Benutzeroberfläche zeigt offentsichtliche Suche, sowie eine Übersicht über die neueste Sitzung/Beschlüsse<br>- Min. modernes Design, das den ersten Eindruck prägt und intuitiv zugänglich ist |
+| **Controller** | - steuert Interaktion zwischen Nutzereingaben (Suchfunktion) und den Datenmodellen<br>-Bei Suchanfragen ruft Controller spezifischen Themen aus der Datenbank                                    |
 
+**Debatten-page**
+Diese Seite bietet eine kompakte, aber umfassende Übersicht über alle Sitzungen und Debatten, einschließlich ihrer Themen, Argumente und Vorschläge. Nutzer sollen sich schnell einen Überblick verschaffen können und bei Bedarf tiefer in spezifische Themen eintauchen können.
+
+| **Model**      | - Stellt umfangreiche Informationen zu allen Sitzungen, Debatten, Abstimmungen und Argumenten bereit<br>- Muss logisch strukturiert sein, um schnelle Abfragen zu ermöglichen                                                             |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **View**       | - Ausgewogene Gestaltung, die umfassende Informationen bietet und gleichzeitig die Übersichtlichkeit wahrt<br>- Ermöglicht die Navigation zwischen verschiedenen Sitzungen und Debatten<br>- Benutzerfreundlich, ohne überladen zu wirken |
+| **Controller** | - Verwaltert die Datenanforderungen der View<br>- Organisiert und bündelt Informationen zu Debatten, um diese in kompakter Form bereitzustellen                                                                                           |
+
+
+**Drucksachen-page**
+Diese Seite bietet detaillierte Informationen zu einer einzelnen Drucksache. Hier sollen die Informationen, die auf der Debatten-page kompakt dargestellt wurden, umfassender und übersichtlicher aufbereitet werden. Zudem ermöglicht die Seite den Zugriff auf vorherige oder nachfolgende Drucksachen.
+
+| **Model**      | - Liefert spezifische Daten zu einer Drucksache sowie deren Argumente und Vorschläge<br>- Fokussierte Abfragen reduzieren die Datenlast und verbessern die Ladezeiten                                                              |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **View**       | - Bietet mehr Raum für die Darstellung der Inhalte<br>- Das Layout ist professionell und informativ, ohne jedoch langweilig zu wirken<br>- Ermöglicht es Nutzern, detailliert in die einzelnen Aspekte der Drucksache einzutauchen |
+| **Controller** | - Ruft nur die relevanten Daten der ausgewählten Drucksache ab und übergibt diese an die View<br>- Regelt die Navigation zwischen vorherigen und nachfolgenden Drucksachen                                                         |
+
+
+
+### Datenbankmodell
+Die Struktur der Datenbank ist so gestaltet, dass sie die parlamentarischen Abläufe  nachvollziehbar abbildet. Im Zentrum steht die **Wahlperiode** und innerhalb von der finden viele **Sitzungen** statt, in denen viele verschiedene Themen diskutiert werden. Jede Sitzung bezieht sich auf eine Vielzahl von **Drucksachen**, die als parlamentarische Dokumente oder Gesetzesvorlagen eine zentrale Rolle im Debattenprozess einnehmen.
+
+Eine **Drucksache** ist dabei immer einem bestimmten **Thema** zugeordnet und kann durch die Diskussion in einer Sitzung zu einer Abstimmung führen. Das Modell sieht vor, dass über jede Drucksache abgestimmt werden kann, wobei die Ergebnisse der Abstimmung – also die **Ja-Stimmen**, **Nein-Stimmen** und **Enthaltungen** – sowie die Verteilung der Stimmen nach Fraktionen in der Datenbank festgehalten werden. Diese Struktur ermöglicht es, sowohl die inhaltlichen Diskussionen als auch die formalen Abstimmungen detailliert nachzuvollziehen.
+
+Ein weiterer wichtiger Bestandteil der Drucksachen sind die dazugehörigen **Argumente**. Jede Drucksache kann eine Vielzahl von Argumenten enthalten, die entweder für oder gegen die Drucksache sprechen. Jedes **Argument** besteht aus einem Text, der eine bestimmte Position darstellt und von einer **Fraktion** stammt. Zudem wird die Quelle des Arguments – sei es ein schriftliches Dokument oder eine Rede – ebenfalls dokumentiert. Diese Argumente sind essenziell, um die verschiedenen Sichtweisen und Diskussionen innerhalb des parlamentarischen Prozesses transparent darzustellen.
+
+Darüber hinaus bietet die Struktur der Datenbank die Möglichkeit, **Vorschläge** und **Alternativanträge** zu erfassen. Eine Drucksache kann verschiedene **Alternativvorschläge** oder **alternative Drucksachen** enthalten, die von anderen Fraktionen eingebracht werden. Diese Alternative dienen dazu, unterschiedliche Lösungsvorschläge für ein bestimmtes Problem zu präsentieren oder bestehende Drucksachen zu ergänzen oder zu modifizieren.
 
 ![[databaseStructure.canvas|databaseStructure]]
 
-3.5 Interface Design
+## 3.5 Interface Design
+
+**Papierskizzen**
+
+
+**Rapid Prototyping**
+
+
+**Feedback**
+
+
+**Wireframes**
+
+
+**Mock Ups**
+
 
 3.6 Fazit der Konzeption
 

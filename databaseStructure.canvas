@@ -10,8 +10,8 @@
 		{"id":"ec207ffae3752c1f","type":"text","text":"**Topics**\ntopicId PRIMARY KEY \nKategorie VARCHAR(255)","x":-292,"y":-340,"width":330,"height":120}
 	],
 	"edges":[
-		{"id":"18c4c426eee87b69","fromNode":"2936866434fc2f8f","fromSide":"right","toNode":"1c6c5ab6068a651b","toSide":"left","toEnd":"none","label":"1------n"},
-		{"id":"1669aa3d06bf3d20","fromNode":"2936866434fc2f8f","fromSide":"right","toNode":"ecc005d592913294","toSide":"left","toEnd":"none","label":"1-----n"},
+		{"id":"18c4c426eee87b69","fromNode":"2936866434fc2f8f","fromSide":"right","toNode":"1c6c5ab6068a651b","toSide":"left","toEnd":"none","label":"1-n"},
+		{"id":"1669aa3d06bf3d20","fromNode":"2936866434fc2f8f","fromSide":"right","toNode":"ecc005d592913294","toSide":"left","toEnd":"none","label":"1-n"},
 		{"id":"1df195b39a47fd33","fromNode":"90969b45e8880856","fromSide":"right","toNode":"2936866434fc2f8f","toSide":"left","toEnd":"none","label":"1-n"},
 		{"id":"5256e08e060082e2","fromNode":"2e22f14496b36d9b","fromSide":"bottom","toNode":"90969b45e8880856","toSide":"top","toEnd":"none","label":"1-n"},
 		{"id":"750392c954bfeb1b","fromNode":"ec207ffae3752c1f","fromSide":"bottom","toNode":"2936866434fc2f8f","toSide":"top","toEnd":"none","label":"n-n"},
