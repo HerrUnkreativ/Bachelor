@@ -425,6 +425,17 @@ Diese Struktur stellt sicher, dass sowohl funktionale als auch ästhetische Anfo
 
 ## 3.4 Systemarchitektur
 
+## Webseiten
+Im Front-End soll 3 Hauptseiten geben, um die Anforderungen alle anbieten zu können.
+
+**Landingpage**
+In der Landingpage sollen die Nutzenden mit einem modernen minimalistischen Design, dass mit Elementen von der Landeswebseite und dem Parlament dargestellt wird, um eine seriösität auszuströmen. Zusätzlich soll schnell die Suchfunktion als Hauptfunktionolalität angeboten werden, um schnell nach spezifischen Themen zu suchen. Des weiteren sollen hier die Themen der aktuellesten Sitzung aufgelistet werden, sowie die aktuellsten Beschlüsse.
+
+**Debattenpage**
+Hier sollen alle Sitzungen erreichbar gemacht werden
+
+
+![[databaseStructure.canvas|databaseStructure]]
 
 3.5 Interface Design
 
