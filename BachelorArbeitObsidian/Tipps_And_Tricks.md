@@ -23,12 +23,12 @@
    4. [[#2.4 Problemanalyse/Aufgabenanalyse]]
    5. [[#2.5 Fazit zur Analyse]]
 3. **[[#3 Konzeption]]**
-   1. [[#Konzeptionsvorgehen]]
-   2. [[#Anwendungsfälle (Use Cases)]]
-   3. [[#Funktionalitäten]]
-   4. [[#Systemarchitektur]]
-   5. [[#Interface Design]]
-   6. [[#Fazit der Konzeption]]
+   1. [[#3.1 Konzeptionsvorgehen]]
+   2. [[#3.2 Anwendungsfälle]]
+   3. [[#3.3 Funktionalitäten]]
+   4. [[#3.4 Systemarchitektur]]
+   5. [[#3.5 Interface Design]]
+   6. [[#3.6 Fazit der Konzeption]]
 4. **Realisierung**
    1. [[#Realisierung der Systemarchitektur]]
    2. [[#Realisierung des Interfaces]]
@@ -483,7 +483,7 @@ Darüber hinaus bietet die Struktur der Datenbank die Möglichkeit, **Vorschläg
 **Mock Ups**
 
 
-3.6 Fazit der Konzeption
+## 3.6 Fazit der Konzeption
 
 --- vs ---
 
