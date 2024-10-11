@@ -353,7 +353,7 @@ Im Zentrum der Software steht die Darstellung von politischen Argumenten und Inh
 **Weitere Informationen**
 Neben der reinen Argumentation und Darstellung von Abstimmungen soll die Software Hintergrundinformationen zu den jeweiligen Themen anbieten. Dies ermöglicht den Nutzenden, sich umfassend und tiefgehend in die Debatte einzuarbeiten. Ziel ist es, den Nutzenden eine klar verständliche Beschreibung der Debattenthemen sowie die damit verbundenen Ziele und Absichten zu liefern. Die Verlinkung von Primärquellen spielt auch hier eine zentrale Rolle, um den Informationsgehalt zu erhöhen und Vertrauen in die dargestellten Inhalte zu schaffen. Darüber hinaus sollen verwandte Gesetze und gesetzliche Regelungen, die das jeweilige Thema betreffen, leicht zugänglich gemacht werden.
 
- **User Experience**
+**User Experience**
 Die Nutzererfahrung steht im Fokus der Softwareentwicklung. Eine umfassende und leistungsfähige Suche soll es den Nutzenden ermöglichen, gezielt nach relevanten Themen und Informationen zu suchen. Dabei soll die Suche auch Vorschläge aus den aktuellsten Sitzungen liefern, um stets aktuelle Inhalte bereitstellen zu können. Barrierefreiheit ist ein weiterer wichtiger Punkt. Es wird angestrebt, die Anwendung für alle Nutzenden zugänglich zu machen, indem beispielsweise Kontraste für Menschen mit Sehschwächen optimiert und alternative Beschreibungen für Bilder und Icons angeboten werden, um die Software auch für Screenreader zugänglich zu machen. Ein gut strukturierter Informationsbereich, der die Inhalte klar und verständlich aufbereitet, sowie die Möglichkeit, Vorschlagsthemen einzureichen, runden das Konzept ab.
 
 ## 2.5 Fazit zur Analyse
