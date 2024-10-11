@@ -518,11 +518,12 @@ Auf der Debattenpage sollen die Sitzungen (hier Platzhalter Sitzung 24) in dem l
 
 Auf der Drucksachen-Seite werden die zuvor ausgewählten Themen, entweder von der Debattenseite oder den Suchergebnissen, angezeigt. Der Inhalt bleibt dabei konsistent, jedoch soll die Darstellung größer und übersichtlicher erfolgen. Diese gestalterischen Anpassungen sind in diesem Mock-Up noch nicht vollständig umgesetzt, da der Fokus in dieser Phase auf der reinen Verfügbarkeit der Informationen liegt. Die Darstellung der Argumente erfolgt in Form von sogenannten "Cards", die auf Grundlage des Gestaltgesetzes der **Nähe** umgesetzt werden. Dieses Gesetz besagt, dass Elemente, die nahe beieinander positioniert sind, als zusammengehörig wahrgenommen werden. Dadurch sollen die Argumente klar als eine kohärente Informationseinheit erfasst werden (Abbildung 4).
 
-In derselben Ansicht werden auch Alternativvorschläge angezeigt, sodass der Nutzer direkt zwischen verschiedenen Ansätzen oder Positionen wählen kann. Der Tab „Parteistandpunkte“ listet zudem die beteiligten Parteien der Landesregierung auf und zeigt deren jeweilige Positionen, Argumente und Vorschläge in Bezug auf das Thema. Diese klare und strukturierte Präsentation unterstützt die Nutzer dabei, die Standpunkte der Parteien sowie die zugrundeliegenden Argumente schnell und effizient zu erfassen (Abbildung 5).
+In derselben Ansicht werden auch Alternativvorschläge angezeigt, sodass der Nutzer direkt zwischen verschiedenen Ansätzen oder Positionen wählen kann. Der Tab „Parteistandpunkte“ listet zudem die beteiligten Parteien der Landesregierung auf und zeigt deren jeweilige Positionen, Argumente und Vorschläge in Bezug auf das Thema. Diese klare und strukturierte Präsentation unterstützt die Nutzer dabei, die Standpunkte der Parteien sowie die zugrundeliegenden Argumente schnell und effizient zu erfassen (Abbildung 5).  Auf der mobilden Ansicht, wird die Inhaltsangabe von den Themen, in die Linke Übersicht verschoben und wird durch das Hamburgermenüitem geöffnet. Somit sind die Themen unter der Sitzung aufgeslisted.
 
-![[Screenshot from 2024-10-11 10-10-52.png]] ![[Screenshot from 2024-10-11 10-11-07.png]]
+![[Screenshot from 2024-10-11 10-10-52.png]] 
+![[Screenshot from 2024-10-11 10-11-07.png]]
 
-
+Die Suche ist von jeder Seite aus zu erreichen und soll den Hintergrund undeutlich machen. Die Such-Ergebnisse sollen den Titel des Themas, die Drucksache, die Sitzung und das Datum wiedergeben. Sollten mehrere Suchergebnisse zu dem genau selben Thema erscheinen, sollen diese nach Aktualität sortiert werden, sodass die aktuellsten Ergebnisse ganz oben gelistet sind.
 
 ![[Screenshot from 2024-10-11 10-10-44.png]]
 
@@ -530,8 +531,8 @@ In derselben Ansicht werden auch Alternativvorschläge angezeigt, sodass der Nut
 
 
 
-**Layout 2**
-Auf der Debattenpage sollen die Sitzungen (hier Platzhalter Sitzung 24) in dem linken Menü hinzugefügt werden. Auf der rechten Seite sind die Themen der Sitzung zu finde. So ist es dem Nutzer möglich zu überprüfen, ob Themen dabei sind, die ihn interessieren. In der Mitte des Bildschirms ist, wie auf dem Papier-Prototypen, der Hauptkontent. Dargestellt werden Elemente wie die Sitzung auf der sich der Nutzer befindet und ihr Datum, sowie der Titel des ersten Themas und sein Hintergrund. Darunter werden dann die Argumente in Pro und Kontra darstellung aufgelistet. Mit dem Schalter (Nummer 8, Abbildung 3), können die zu ihren Standpunkten eingeblendet werden. Dieser Extra Interaktionsschritt soll den "My Side" Effekt reduzieren (Quelle?) und den Nutzer dazu nudgen, sich erst mit den Argumenten der Debatte auseinanderzusetzen, bevor er die Argumente seiner präferierten Partei übernimmt. Der Nudge basiert auf dem "least effort" Prinzip von Kahnemann.
+**Layout 2**  
+Das zweite Layout ist ähnlich aufgebaut, jedoch wird stärker mit Abständen (Spacing) gearbeitet, um eine noch klarere Struktur zu schaffen. Auf der Debattenseite werden die Sitzungen (z. B. Sitzung 24) ebenfalls im linken Menü aufgelistet, während auf der rechten Seite die Sitzungsthemen erscheinen. Der Hauptinhalt in der Mitte bleibt vergleichbar mit Layout 1, mit den Details zur Sitzung, dem Datum und dem ersten Thema, sowie einer Pro- und Kontra-Darstellung der Argumente. Über einen Schalter (Nummer 8, Abbildung 3) lassen sich die Standpunkte der Parteien einblenden. Dieser zusätzliche Interaktionsschritt zielt ebenfalls darauf ab, den "My Side"-Effekt zu reduzieren und den Nutzer dazu zu animieren, sich zunächst mit den Argumenten der Debatte auseinanderzusetzen, bevor er die Positionen seiner bevorzugten Partei übernimmt. Auch hier basiert der Nudge auf dem "Least Effort"-Prinzip von Kahnemann.
 ![[Screenshot from 2024-10-11 10-22-17.png|520]]![[Screenshot from 2024-10-11 15-42-31.png|150]]
 
 
