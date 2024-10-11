@@ -468,14 +468,107 @@ Darüber hinaus bietet die Struktur der Datenbank die Möglichkeit, **Vorschläg
 
 ## 3.5 Interface Design
 
-**Papierskizzen**
+Das User Interface stellt den Kern der Interaktion zwischen der Plattform und den Nutzern. In einem Iteretativen Prozess wurde von einfachen Papierskizzen bis zu einem interaktiven Interface in Form eines Mock-Ups abgeschlossen.
+
+### **Papierskizzen**
+Die erste Phase der Interface-Gestaltung umfasste die Erstellung verschiedener Papierprototypen und einzelner Elemente (siehe Abbildung 1). Diese Prototypen dienten dazu, erste Ideen hinsichtlich Layouts und Stilrichtungen festzuhalten und zu visualisieren. Die Wahl von Papier als Medium erfolgte bewusst, um Flexibilität zu gewährleisten und schnelles, unkompliziertes Feedback zu ermöglichen.
+
+![[IMG_20241011_093202.jpg|500]]
+Abbildung 1
 
 
-**Rapid Prototyping**
+**Idee 1**
+In der ersten Designidee werden die grundlegenden Funktionen ähnlich implementiert, jedoch in einem modernen und lebendigen Layout. Die Grundstruktur der Webseite präsentiert Titel und Beschreibungstexte auf der linken Seite in einer ansprechenden Bubble-Form. Diese Darstellung fungiert als primäres visuelles Element und ermöglicht den Nutzern, jederzeit zu erkennen, wo sie sich auf der Webseite befinden und welches Thema im Fokus steht.
+
+Die Bubble-Elemente fördern nicht nur die Orientierung, sondern regen die Nutzer auch zur Interaktion an, indem sie dazu ermutigt werden, tiefer in die Inhalte einzutauchen. Die Konsistenz dieses Designs zieht sich durch alle drei Seiten der Webseite und gewährleistet somit ein einheitliches Nutzererlebnis (siehe Abbildung 1).
+
+Zudem wird die Verbindung zwischen den Seiten durch ein durchgängiges Navigationskonzept gestärkt. Jede Seite ist strategisch miteinander verlinkt, sodass Nutzer nahtlos zwischen den Themen wechseln können. Diese intuitive Navigation ermöglicht den Nutzern, schnell und unkompliziert auf verwandte Inhalte zuzugreifen, wodurch die Gesamterfahrung der Webseite bereichert wird. Der Fokus liegt hierbei nicht nur auf visueller Konsistenz, sondern auch auf der Schaffung eines innovativen und eigenständigen Designs, das die Benutzerfreundlichkeit optimiert.
+
+![[IMG_20241011_093232.jpg]]
+
+
+**Idee 2:**
+Die zweite Designidee verfolgt das Ziel einer klar strukturierten und benutzerfreundlichen Darstellung. Im Zentrum steht eine Landingpage (Blatt 1 in Abbildung 2), die den Fokus auf Debatten oder die Suchfunktion lenkt. Dies erleichtert den Nutzern den schnellen Zugang zu relevanten Informationen, indem sie unmittelbar zu den gewünschten Inhalten navigieren können. Weiter unten auf der Seite sind die aktuellsten Sitzungen sowie die Abstimmungen der letzten Tagungsübersicht zu finden.
+
+Auf der Debattenseite (Blatt 2 in Abbildung 2) wird eine intuitive Navigation implementiert. Auf der linken Bildschirmseite befindet sich eine Navigationsleiste, die es ermöglicht, mühelos zwischen verschiedenen Sitzungen zu wechseln. Auf der rechten Bildschirmseite wird eine Inhaltsübersicht platziert, die es den Nutzern erlaubt, gezielt zwischen den besprochenen Themen einer Sitzung hin- und herzuspringen. Diese duale Navigationsstruktur gewährleistet eine schnelle Orientierung und erleichtert den Zugang zu spezifischen Diskussionsthemen. Der Hauptbereich der Seite, zentral auf dem Bildschirm positioniert, ist für die detaillierte Darstellung der Themen einer Sitzung vorgesehen. Hier finden sich alle Informationen zu den behandelten Themen, ihren Hintergründen sowie den vorgebrachten Argumenten und Alternativvorschlägen. Das Layout folgt dem Prinzip des F-Form-Musters (Nielsen, 2006), einem bewährten Designansatz, der das natürliche Leseverhalten der Nutzer auf Webseiten berücksichtigt. Durch die Anordnung der Informationen in dieser Struktur wird gewährleistet, dass die wichtigsten Inhalte schnell erfasst werden, während tiefere Informationen für interessierte Nutzer leicht zugänglich bleiben.
+
+Durch die Interaktion mit den Titeln eines Themas gelangen die Nutzer direkt zu den detaillierten Inhalten auf der Drucksachen-Seite (Blatt 3 in Abbildung 2). Sobald diese spezifische Ansicht aufgerufen wird, erfolgt eine Änderung im Layout: Alle Menüs und Navigationselemente werden ausgeblendet, um den Fokus vollständig auf die Inhalte des Themas zu lenken. Der gewonnene Raum auf dem Bildschirm wird durch vergrößerten White Space sowie eine größere Schriftgröße genutzt, um eine angenehmere und leserfreundlichere Darstellung der Informationen zu ermöglichen. Diese Reduktion auf das Wesentliche und die bewusste Gestaltung des freien Raums verbessern nicht nur die Lesbarkeit, sondern fördern auch die Konzentration auf die zentralen Inhalte des Themas.
+
+Durch diese Kombination aus strukturiertem Design, benutzerzentrierter Navigation und fokussierter Informationsdarstellung wird eine Umgebung geschaffen, die sowohl eine schnelle Informationserfassung als auch eine tiefgehende Auseinandersetzung mit den Inhalten unterstützt.
+
+![[IMG_20241011_093225.jpg]]
+
+
+
+**Nutzerfeedback:**
+Das Nutzerfeedback von einer Studentin und einem jungen Erwachsenen zeigt, dass das erste Layout zwar ansprechender wahrgenommen wurde, jedoch Orientierungsschwierigkeiten auftraten. Insbesondere wurden die "Bubbles" als Werbeobjekte interpretiert. Zudem fiel negativ auf, dass die mobile Version überdimensionierte Farbflächen aufwies. Im zweiten Design wurde die Struktur positiv hervorgehoben. Die Menüs wurden schnell erkannt und der Hauptinhalt identifiziert. Negativ wurde jedoch die Eintönigkeit angesprochen, was auf die fehlenden tatsächlichen Informationen zurückgeführt wurde. Basierend auf diesem Feedback wurde das zweite Design priorisiert. Nutzer besuchen Webseiten nicht primär aufgrund ihrer visuellen Attraktivität; entscheidend ist die Benutzerfreundlichkeit, die es ermöglicht, Aufgaben schnell und effizient zu erledigen (Lindgaard, G., et all, 2003). 
+
+
+
+### **Rapid Prototyping**
+Der Papier-Prototyp wurde in der nächsten Iteration als Mock-up umgesetzt, um ein Gefühl für die Menge und Anordnung der tatsächlichen Informationen zu vermitteln. Auch hierbei wurden wurden 2 Ansätze tiefer verfolgt und anschließend in einem Workshop für Feedback analysiert.
+
+**Layout 1**
+Die erste Landing Page soll Themen aus den letzten zwei Sitzungen durch interaktive Elemente durch das Zenter als eine Art Galerie durch bewegen. Zusätzlich sollen die Abstimmungen der letzten Tagung im selben Stil angezeigt werden. Zusätzlich eine zentrale Suche in der Top-Bar um direkt sein Thema suchen zu können (siehe Abbildung 3). Die Intention des Layouts war, den Nutzer mit Beispielthemen neugierig zu machen auf die aktuellen geschehnisses des Landtags-Schleswig Holsteins zu machen.
+![[Screenshot from 2024-10-11 10-10-15.png]]
+
+Auf der Debattenpage sollen die Sitzungen (hier Platzhalter Sitzung 24) in dem linken Menü hinzugefügt werden. Auf der rechten Seite sind die Themen der Sitzung zu finde. So ist es dem Nutzer möglich zu überprüfen, ob Themen dabei sind, die ihn interessieren. In der Mitte des Bildschirms ist, wie auf dem Papier-Prototypen, der Hauptkontent. Dargestellt werden Elemente wie die Sitzung auf der sich der Nutzer befindet und ihr Datum, sowie der Titel des ersten Themas und sein Hintergrund. Darunter werden dann die Argumente in Pro und Kontra darstellung aufgelistet. Mit dem zweiten Tab (Nummer 8, Abbildung 3), können die Parteien zu ihren Standpunkten eingeblendet werden und falls vorhanden, Alternativvorschläge/Anträge. Dieser Extra Interaktionsschritt soll den "My Side" Effekt reduzieren (Quelle?) und den Nutzer dazu nudgen, sich erst mit den Argumenten der Debatte auseinanderzusetzen, bevor er die Argumente seiner präferierten Partei übernimmt. Der Nudge basiert auf dem "least effort" Prinzip von Kahnemann. Mit dem Stil werden alle Themen der Sitzung untereinander aufgelistet (siehe Abbildung 3).
+
+![[Screenshot from 2024-10-11 10-10-34.png]]
+
+Auf der Drucksachen-Seite werden die zuvor ausgewählten Themen, entweder von der Debattenseite oder den Suchergebnissen, angezeigt. Der Inhalt bleibt dabei konsistent, jedoch soll die Darstellung größer und übersichtlicher erfolgen. Diese gestalterischen Anpassungen sind in diesem Mock-Up noch nicht vollständig umgesetzt, da der Fokus in dieser Phase auf der reinen Verfügbarkeit der Informationen liegt. Die Darstellung der Argumente erfolgt in Form von sogenannten "Cards", die auf Grundlage des Gestaltgesetzes der **Nähe** umgesetzt werden. Dieses Gesetz besagt, dass Elemente, die nahe beieinander positioniert sind, als zusammengehörig wahrgenommen werden. Dadurch sollen die Argumente klar als eine kohärente Informationseinheit erfasst werden (Abbildung 4).
+
+In derselben Ansicht werden auch Alternativvorschläge angezeigt, sodass der Nutzer direkt zwischen verschiedenen Ansätzen oder Positionen wählen kann. Der Tab „Parteistandpunkte“ listet zudem die beteiligten Parteien der Landesregierung auf und zeigt deren jeweilige Positionen, Argumente und Vorschläge in Bezug auf das Thema. Diese klare und strukturierte Präsentation unterstützt die Nutzer dabei, die Standpunkte der Parteien sowie die zugrundeliegenden Argumente schnell und effizient zu erfassen (Abbildung 5).
+
+![[Screenshot from 2024-10-11 10-10-52.png]] ![[Screenshot from 2024-10-11 10-11-07.png]]
+
+
+
+![[Screenshot from 2024-10-11 10-10-44.png]]
+
+
+
+
+
+**Layout 2**
+Auf der Debattenpage sollen die Sitzungen (hier Platzhalter Sitzung 24) in dem linken Menü hinzugefügt werden. Auf der rechten Seite sind die Themen der Sitzung zu finde. So ist es dem Nutzer möglich zu überprüfen, ob Themen dabei sind, die ihn interessieren. In der Mitte des Bildschirms ist, wie auf dem Papier-Prototypen, der Hauptkontent. Dargestellt werden Elemente wie die Sitzung auf der sich der Nutzer befindet und ihr Datum, sowie der Titel des ersten Themas und sein Hintergrund. Darunter werden dann die Argumente in Pro und Kontra darstellung aufgelistet. Mit dem Schalter (Nummer 8, Abbildung 3), können die zu ihren Standpunkten eingeblendet werden. Dieser Extra Interaktionsschritt soll den "My Side" Effekt reduzieren (Quelle?) und den Nutzer dazu nudgen, sich erst mit den Argumenten der Debatte auseinanderzusetzen, bevor er die Argumente seiner präferierten Partei übernimmt. Der Nudge basiert auf dem "least effort" Prinzip von Kahnemann.
+![[Screenshot from 2024-10-11 10-22-17.png|520]]![[Screenshot from 2024-10-11 15-42-31.png|150]]
+
+
+![[Screenshot from 2024-10-11 10-22-24.png]]
+
+![[Screenshot from 2024-10-11 10-22-29.png]]
+
+![[Screenshot from 2024-10-11 10-22-35.png]]
+
+![[Screenshot from 2024-10-11 10-22-40.png]]
+
+![[Screenshot from 2024-10-11 10-22-48.png]]
+
+![[Screenshot from 2024-10-11 10-22-55.png]]
+
+![[Screenshot from 2024-10-11 10-23-01.png]]
+
+![[Screenshot from 2024-10-11 10-23-04.png]]
+
+Mobile:
+![[Screenshot from 2024-10-11 15-41-54.png]]
+
+![[Screenshot from 2024-10-11 15-41-59.png]]
+
+![[Screenshot from 2024-10-11 15-42-04.png]]
+
+
+
+
+Layout 2
 
 
 **Feedback**
-
+Farblose Prototypen 
+- um keine Veränderungen vor gröberen Veränderungen zu haben
+- LAyout entscheidungen
+- UI-Entscheidungen
 
 **Wireframes**
 
@@ -490,3 +583,16 @@ Darüber hinaus bietet die Struktur der Datenbank die Möglichkeit, **Vorschläg
 3.1 Inhalte Strukturieren
 3.2. UI erstellen (Skizzen $\rightarrow$ Prototypen (Rapid Prototyping) $\rightarrow$ Wireframes $\rightarrow$ Mockups)
 3.3. Ux-Tests $\rightarrow$ LeanUX (Remote-Usability Tests oder Guerilla-Tests)
+
+
+# Datenqualität KIAZ
+- Präsentationen aufbereiten
+- Beispiele, 
+- Visualisierung des Mehrwaufwands und den niedrigeren Ständen, 
+
+13.11 
+
+Quellen:
+Nielsen, J. (2006). F-shaped pattern for reading web content. _Nielsen Norman Group_. https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/
+
+Lindgaard, G., & Dudek, C. (2003). What is this evasive beast we call user satisfaction? _Journal of Usability Studies_, 1(2), 100-109
