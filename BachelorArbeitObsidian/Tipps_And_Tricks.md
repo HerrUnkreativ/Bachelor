@@ -561,11 +561,17 @@ Mobile:
 
 
 
-
-Layout 2
-
-
 **Feedback**
+Besonders positiv hervorgehoben wurden die klare Trennung von **Pro- und Kontra-Argumenten**, um eine transparente und nachvollziehbare Debatte zu ermöglichen. Zudem wurde die Integration von **Videos** als unterstützendes Medium begrüßt, um Debatten besser verständlich und zugänglich zu machen. Einige Teilnehmer äußerten jedoch Bedenken hinsichtlich der **Navigation**, die noch überarbeitet werden sollte, um eine intuitive Nutzerführung zu gewährleisten. Die **Abstimmungen** zu den Themen wurden ebenfalls kritisch betrachtet, da diese nicht immer als relevant oder notwendig erachtet wurden.
+
+Der **Kontext** der Argumente sei teilweise nicht ausreichend dargestellt, weshalb eine detailliertere Einbettung der Informationen wünschenswert wäre. Manche **Argumente** erschienen nicht immer klar genug formuliert, was den Entscheidungsprozess erschwert. Ein weiterer wichtiger Punkt war die Einführung eines deutlichen **Call to Action**, um den Nutzern klare Handlungsoptionen zu bieten.
+
+Es wurde vorgeschlagen, sich **Abgeordnetenwatch** als Referenz anzuschauen, um weitere Inspirationen zur Transparenz und Darstellung der Informationen zu erhalten. Darüber hinaus wurde der Wunsch geäußert, **Stellungnahmen** der Parteien direkt im Prototypen einzubinden und anstelle von Bulletpoints für Entscheidungsoptionen **Checkboxen** zu verwenden, um den Auswahlprozess zu vereinfachen. Abschließend wurde eine **Übersicht der vertretenen Parteien** als nützliches Element angesehen, um den Nutzern eine bessere Orientierung zu bieten.
+
+
+
+
+
 Farblose Prototypen 
 - um keine Veränderungen vor gröberen Veränderungen zu haben
 - LAyout entscheidungen
