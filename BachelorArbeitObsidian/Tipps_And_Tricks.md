@@ -506,7 +506,7 @@ Das Nutzerfeedback von einer Studentin und einem jungen Erwachsenen zeigt, dass 
 
 
 ### **Rapid Prototyping**
-Der Papier-Prototyp wurde in der nächsten Iteration als Mock-up umgesetzt, um ein Gefühl für die Menge und Anordnung der tatsächlichen Informationen zu vermitteln. Auch hierbei wurden wurden 2 Ansätze tiefer verfolgt und anschließend in einem Workshop für Feedback analysiert.
+Der Papier-Prototyp wurde in der nächsten Iteration als Wireframes umgesetzt, um ein Gefühl für die Menge und Anordnung der tatsächlichen Informationen zu vermitteln. Auch hierbei wurden wurden 2 Ansätze tiefer verfolgt und anschließend in einem Workshop für Feedback analysiert.
 
 **Layout 1**
 Die erste Landing Page soll Themen aus den letzten zwei Sitzungen durch interaktive Elemente durch das Zenter als eine Art Galerie durch bewegen. Zusätzlich sollen die Abstimmungen der letzten Tagung im selben Stil angezeigt werden. Zusätzlich eine zentrale Suche in der Top-Bar um direkt sein Thema suchen zu können (siehe Abbildung 3). Die Intention des Layouts war, den Nutzer mit Beispielthemen neugierig zu machen auf die aktuellen geschehnisses des Landtags-Schleswig Holsteins zu machen.
@@ -532,8 +532,12 @@ Die Suche ist von jeder Seite aus zu erreichen und soll den Hintergrund undeutli
 
 
 **Layout 2**  
-Das zweite Layout ist ähnlich aufgebaut, jedoch wird stärker mit Abständen (Spacing) gearbeitet, um eine noch klarere Struktur zu schaffen. Auf der Debattenseite werden die Sitzungen (z. B. Sitzung 24) ebenfalls im linken Menü aufgelistet, während auf der rechten Seite die Sitzungsthemen erscheinen. Der Hauptinhalt in der Mitte bleibt vergleichbar mit Layout 1, mit den Details zur Sitzung, dem Datum und dem ersten Thema, sowie einer Pro- und Kontra-Darstellung der Argumente. Über einen Schalter (Nummer 8, Abbildung 3) lassen sich die Standpunkte der Parteien einblenden. Dieser zusätzliche Interaktionsschritt zielt ebenfalls darauf ab, den "My Side"-Effekt zu reduzieren und den Nutzer dazu zu animieren, sich zunächst mit den Argumenten der Debatte auseinanderzusetzen, bevor er die Positionen seiner bevorzugten Partei übernimmt. Auch hier basiert der Nudge auf dem "Least Effort"-Prinzip von Kahnemann.
+Der größte Unterschied befindet sich in der Landingpage, hier sollen statt zufällige aktuelle Themen, die Themen der aktuellsten Drucksache aufgelistet werden (Abbildung 6). Die Abstimmungsergebnisse werden auch nicht mehr dynamisch, sondern statisch angezeigt und werden durch das Gestaltprinzip der Kontinuität darauf eindeuten, dass gescrollt werden muss, um die restlichen zu finden (sollten es mehr Abstimmungen sein, als auf den Bildschirm passen, was selten der Fall ist). Zusätzlich wird das Video der letzten Debatte verlinkt, um einen schnellen Zugang zu der Originalquelle zu haben.
+
 ![[Screenshot from 2024-10-11 10-22-17.png|520]]![[Screenshot from 2024-10-11 15-42-31.png|150]]
+
+Die anderen Seiten des zweiten Layouts sind ähnlich aufgebaut, jedoch wird stärker mit Abständen (Spacing) gearbeitet, um eine noch klarere Struktur zu schaffen. Auf der Debattenseite werden die Sitzungen (z. B. Sitzung 24) ebenfalls im linken Menü aufgelistet, während auf der rechten Seite die Sitzungsthemen erscheinen. Der Hauptinhalt in der Mitte bleibt vergleichbar mit Layout 1, mit den Details zur Sitzung, dem Datum und dem ersten Thema, sowie einer Pro- und Kontra-Darstellung der Argumente. Über einen Schalter (Nummer 8, Abbildung 3) lassen sich die Standpunkte der Parteien einblenden. Dieser zusätzliche Interaktionsschritt zielt ebenfalls darauf ab, den "My Side"-Effekt zu reduzieren und den Nutzer dazu zu animieren, sich zunächst mit den Argumenten der Debatte auseinanderzusetzen, bevor er die Positionen seiner bevorzugten Partei übernimmt. Auch hier basiert der Nudge auf dem "Least Effort"-Prinzip von Kahnemann.
+
 
 
 ![[Screenshot from 2024-10-11 10-22-24.png]]
@@ -561,20 +565,20 @@ Mobile:
 
 
 
-
-Layout 2
-
-
 **Feedback**
-Farblose Prototypen 
-- um keine Veränderungen vor gröberen Veränderungen zu haben
-- LAyout entscheidungen
-- UI-Entscheidungen
+Um zu ermitteln, welche Elemente der beiden Layouts bei den Nutzern besser ankommen, wurde ein 30-minütiger Workshop durchgeführt. Der Workshop basierte auf den Erkenntnissen der Analysephase und legte besonderen Wert auf das Feedback zu Layout, Informationsmengen und Usability. Das Feedback der Teilnehmer wurde sowohl in Form von Kommentaren als auch durch vier "Entweder-oder"-Fragen erfasst. Diese dienten dazu, ein finales Layout zu entwickeln, das die am besten bewerteten Elemente kombiniert. Das Endergebnis sollte dann in der nächsten Iteration mit funktionstüchtigen Mock-Ups umgesetzt werden.
 
-**Wireframes**
+In der Abstimmungsrunde des Workshops mit 6 Teilnehmern entschieden sich 67 % der Teilnehmer für das strukturierte Layout (Layout 2) der Landingpage. Dies deutet auf eine Präferenz für eine klarere und besser organisierte Struktur hin (Abb.4). Hinsichtlich der Informationsdarstellung gab es mit 50 % keine klare Tendenz zwischen den beiden Layouts, was auf eine ausgeglichene Wahrnehmung dieser Designaspekte hinweist (Abb.6). Die Darstellung der Suchfunktion wo das Abtrennung durch Layout, mit dem Abtrennen durch Whitespace verglichen wurde, ist wurde Layouts jedoch mit einer deutlichen Zustimmung von 100 % als effektiver bewertet (Abb .7). Bei der letzten Abstimmung, in der visuelle Hierarchien im Fokus standen, entschied sich eine Mehrheit von 57 % für das Layout mit größerer Schrift und klareren Unterschieden zwischen Titeln und Paragraphen, was die Benutzerfreundlichkeit durch verbesserte Lesbarkeit unterstreicht (Abb. 8).
+![[Bildschirmfoto 2024-09-09 um 09.54.50.png|150]]![[Bildschirmfoto 2024-09-09 um 09.54.56.png|150]]![[Bildschirmfoto 2024-09-09 um 09.55.10.png|150]]![[Bildschirmfoto 2024-09-09 um 09.55.05.png|150]]
 
+Im Rahmen des Workshops wurden die Prototypen nicht nur präsentiert, sondern auch direkt für die Teilnehmer getestet angeboten. Zum Abschluss des Workshops fand eine offene Feedbackrunde statt, in der die Teilnehmer ihre Eindrücke und Verbesserungsvorschläge teilten. Dabei wurden angesprochen, dass nicht alle Argumente eindeutig in Pro- und Kontra-Kategorien eingeteilt werden können, was die Strukturierung der Inhalte in einigen Fällen erschweren könnte. Dennoch wurde der Vorschlag, das Video der letzten Sitzung direkt auf der Seite einzubinden, positiv aufgenommen, insbesondere da es auf der Originalwebseite schwer auffindbar ist. Die Navigation wurde hingegen von den Nutzern als verbesserungswürdig eingestuft. Dabei war unklar, welche Menüleiste auf der derzeitigen Seite navigiert, und  welche zwischen den Seiten navigiert. Mehr Kontextinformationen, insbesondere zu politischen und gesellschaftlichen Hintergründen, wurden als wünschenswert erachtet, um den Nutzern ein besseres Verständnis der Themen zu ermöglichen.
+
+Zusätzlich wurde angemerkt, dass deutliche **Call-to-Action-Elemente** fehlen. Solche Elemente könnten die Nutzer stärker dazu animieren, sich aktiv mit den Inhalten auseinanderzusetzen oder direkt in Interaktion zu treten, wodurch die Usability der Webseite insgesamt verbessert werden könnte.
 
 **Mock Ups**
+Der nächste Schritt bei der Entwicklung des User-Interfaces bestand darin, eine detaillierte visuelle Darstellung der Webseite zu erstellen, die dem finalen Design möglichst nahekommt. Denn nach Sharp, Rogers und Preece (2007) sind Mockups effektiv, um potenzielle Designprobleme zu identifizieren. In diesem Stadium wurden auf Basis des Nutzerfeedbacks konkrete Entscheidungen zur Layoutsverbesserung, sowie eine Farbpalette, Typografie, Bildauswahl und Layoutanpassungen getroffen. 
+
+
 
 
 ## 3.6 Fazit der Konzeption
