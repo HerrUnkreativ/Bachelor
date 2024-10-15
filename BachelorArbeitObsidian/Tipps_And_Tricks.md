@@ -580,9 +580,15 @@ Zusätzlich wurde angemerkt, dass deutliche **Call-to-Action-Elemente** fehlen. 
 **Mock Ups**
 Der nächste Schritt bei der Entwicklung des User-Interfaces bestand darin, eine detaillierte visuelle Darstellung der Webseite zu erstellen, die dem finalen Design möglichst nahekommt. Denn nach Sharp, Rogers und Preece (2007) sind Mockups effektiv, um potenzielle Designprobleme zu identifizieren. In diesem Stadium wurden auf Basis des Nutzerfeedbacks konkrete Entscheidungen zur Layoutsverbesserung, sowie eine Farbpalette, Typografie, Bildauswahl und Layoutanpassungen getroffen.
 
+![[Pasted image 20241015075122.png]]
+
+![[Pasted image 20241015075202.png]]
+![[Pasted image 20241015075306.png]]
 
 
+![[Pasted image 20241015075218.png]]
 
+![[Pasted image 20241015075241.png]]
 ## 3.6 Fazit der Konzeption
 
 --- vs ---
@@ -603,3 +609,7 @@ Quellen:
 Nielsen, J. (2006). F-shaped pattern for reading web content. _Nielsen Norman Group_. https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/
 
 Lindgaard, G., & Dudek, C. (2003). What is this evasive beast we call user satisfaction? _Journal of Usability Studies_, 1(2), 100-109
+
+>[!NOTE] Test
+>test
+
