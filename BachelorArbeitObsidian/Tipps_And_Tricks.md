@@ -578,7 +578,12 @@ Im Rahmen des Workshops wurden die Prototypen nicht nur präsentiert, sondern au
 Zusätzlich wurde angemerkt, dass deutliche **Call-to-Action-Elemente** fehlen. Solche Elemente könnten die Nutzer stärker dazu animieren, sich aktiv mit den Inhalten auseinanderzusetzen oder direkt in Interaktion zu treten, wodurch die Usability der Webseite insgesamt verbessert werden könnte.
 
 **Mock Ups**
-Der nächste Schritt bei der Entwicklung des User-Interfaces bestand darin, eine detaillierte visuelle Darstellung der Webseite zu erstellen, die dem finalen Design möglichst nahekommt. Denn nach Sharp, Rogers und Preece (2007) sind Mockups effektiv, um potenzielle Designprobleme zu identifizieren. In diesem Stadium wurden auf Basis des Nutzerfeedbacks konkrete Entscheidungen zur Layoutsverbesserung, sowie eine Farbpalette, Typografie, Bildauswahl und Layoutanpassungen getroffen.
+Der nächste Schritt bei der Entwicklung des User-Interfaces bestand darin, eine detaillierte visuelle Darstellung der Webseite zu erstellen, die dem finalen Design möglichst nahekommt. Denn nach Sharp, Rogers und Preece (2007) sind Mockups effektiv, um potenzielle Designprobleme zu identifizieren. In diesem Stadium wurden auf Basis des Nutzerfeedbacks konkrete Entscheidungen zur Layoutsverbesserung, sowie eine Farbpalette, Typografie, Bildauswahl und Layoutanpassungen getroffen. Da es sich um eine Webanwendung im Bundesland SH handelt, wurde als Primärfarbe eine gesättigte Form des Rot,und als Sekundär das Blau von der Flagge gewählt, dies soll an den lokalen Geostandpunkt erinnern. Die Schriftfamilie "Switzer" (Webseitenverlinkung) kombiniert eine moderne und zeitlose Ästhetik, inspiriert von den Neo-Grotesk-Schriften der 1980er und 1990er Jahre. Obwohl dieser Stil nicht in der Schweiz entstanden ist, wurde er von heimischen Designern stark geprägt. (Webseitenverlinkung nachfügen). Die H1 ist nicht die größte Überschrift, fällt aber aus durch die besonders große Font-Weight und der Primärfarbe. Die größte H-Überschrift ist H2 und alle folgenden Text-Stile werden kleiner und oder verlieren Kontrast, um eine klare Hierarchie für den Nutzenden beim lesen anzubieten (Link zu Gestaltgesetzt).  
+
+![[UI-Stylesheet.png]]
+
+
+
 
 ![[Pasted image 20241015075122.png]]
 
@@ -613,3 +618,4 @@ Lindgaard, G., & Dudek, C. (2003). What is this evasive beast we call user satis
 >[!NOTE] Test
 >test
 
+https://befonts.com/switzer-font-family.html
